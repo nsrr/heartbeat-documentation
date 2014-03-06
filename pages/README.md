@@ -5,4 +5,4 @@
 
 When citing this dataset please use:
 
-> Redline, S., et al. "HeartBeat Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/heartbeat.
+> Redline, S., et al. "HeartBEAT Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/heartbeat.
