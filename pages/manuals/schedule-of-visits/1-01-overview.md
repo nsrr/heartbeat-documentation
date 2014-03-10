@@ -10,7 +10,7 @@ for the week 1 contact and remaining contacts/visits are based on that day. (The
 If a visit or phone contact is completed outside these windows of time, it is considered a minor
 protocol deviation. The SDCC/CWRU policy is to complete an Unanticipated Problem or Protocol Deviation Checklist (U/D). At the CWRU institution it does not need to be submitted to the IRB, but should be filed. Each site should follow their institution’s policy on reporting minor deviations and use the form they provide. If your institution requires further steps, please follow them, but if your institution requires less, please at least follow the procedure of the SDCC/CWRU policy.  Protocol deviation forms from your institution should be completed, filed, and a copy faxed or FTP-ed to the SDCC.  The SDCC will produce periodic reports on time deviations to review and compare to the forms received from sites to ensure proper documentation is taking place.
 
-It is understandable that in some instances, study staff will be* unable to complete the visits and
+It is understandable that in some instances, study staff will be unable to complete the visits and
 contacts within the time windows. For example, deviations could result from patient
 noncompliance issues or a visit/phone contact might be accidentally forgotten or need changed
 due to extenuating reasons. In all cases, documentation is important. If you are attempting to
