@@ -5,7 +5,7 @@
 | Baseline Viist             | Within 4 weeks of sleep monitor study (with a 3 month limit.  If outside 3 month limit, sleep monitor study needs redone before baseline visit) |
 | Week 1 and 2 Phone Contact | + or - 3 days |
 | Week 4 and 8 Phone Contact | + or - 1 days |
-| Final Visit (12 weeks from Baseline Visit or data PAP pressure set) |
+| Final Visit (12 weeks from Baseline Visit or data PAP pressure set) | + or - 2 weeks (with an 8 weeks limit to complete even if outside of window) |
 
 
 <div class="center">
