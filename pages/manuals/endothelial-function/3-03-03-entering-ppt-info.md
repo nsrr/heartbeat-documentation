@@ -6,16 +6,20 @@
 
 MISSING_IMAGE pg.  5
 
-> Note: You should always press “New Patient” to enter new patient information. Trying to
+**Note:** You should always press “New Patient” to enter new patient information. Trying to
 change existing will result in errors in patient details.
 
-* Under **Patient ID**, enter 4 digit Study ID
+* Under Patient ID, enter **EN11OO1B**
+ * EN - So we know it's EndoPAT data
+ * 5-digit participant ID
+ * B = Baseline or F = Final Visit
 * Under **Patient Name**, enter Name Code (first 2 characters of first and last name)
 * Enter age, sex, diastolic blood pressure in labeled boxes
+* Enter Baseline or Final Visit in the comments section
 * Under **Sonographer**, enter Staff ID
 
-**Never enter identifying information. Do not enter address.**
-
+**Never enter identifying information. Double check information entered.  Once you click OK, information can not be edited.**  Click OK to save.
+ 
 
 <div class="center">
 <div class="btn-group">
