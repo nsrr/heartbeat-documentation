@@ -23,8 +23,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-venipuncture.md" class="btn btn-success">
-    4.2.4 Venipuncture
+  <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-01-preparation-of-pt.md" class="btn btn-success">
+    4.2.4.1 Preparation of Participants for Phelbotomy
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
