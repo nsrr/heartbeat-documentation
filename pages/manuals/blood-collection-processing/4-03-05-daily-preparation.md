@@ -32,7 +32,7 @@ Aliquot racks will be set up to correspond to each blood collection tube rack.  
 
 If there is insufficient sample to make the full set of aliquots for a tube type, fill as many cryovials as possible and make a note on the Blood Processing Form.  
  
-Any partially-filled cryovial (less than the specified volume) should be marked with a dot on the cap and a “P” in the comment field on the Blood Processing Form next to that cryovial number.
+Any partially-filled cryovial (less than the specified volume) should be marked with a <u>dot</u> on the cap and a “P” in the comment field on the Blood Processing Form next to that cryovial number.
 
 
 <div class="center">
