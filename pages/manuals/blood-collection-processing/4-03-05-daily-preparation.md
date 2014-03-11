@@ -3,7 +3,7 @@
 The following items should be on hand before beginning processing:
 
 * Lab coats and gloves, splash shields, other Personal Protective Equipment as needed.
-* Refrigerated Centrifuge: 2,000 g force minimum, 4 o C, Swinging bucket. 
+* Refrigerated Centrifuge: 2,000 g force minimum, 4°C, Swinging bucket. 
 * 10% bleach solution (or approved biohazard disinfectant)
 * Test tube holders (adapters) for centrifuges
 * Harvard Trip Balance / Pan balance
