@@ -21,7 +21,7 @@ This study involves the collection of 40 mls of blood from participants during a
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/4-01-02-equipment.mdd" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/4-01-02-equipment.md" class="btn btn-success">
     4.1.2 Equipment and Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
