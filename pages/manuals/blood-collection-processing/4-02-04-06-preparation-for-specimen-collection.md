@@ -21,8 +21,8 @@ Preparation for specimen collection is done in the following manner.  Prior to a
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/4-02-05-venipuncture-procedure.md" class="btn btn-success">
-    4.2.5 Venipuncture Procedure
+  <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-07-phlebotomy-form-questions.md" class="btn btn-success">
+    4.2.4.7 Phlebotomy Form Questions
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
