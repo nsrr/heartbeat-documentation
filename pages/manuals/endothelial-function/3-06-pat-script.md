@@ -37,8 +37,8 @@ let me know at any time.
 
 * It is time to inflate the cuff. On the count of 3, I will inflate the cuff. 1 2 3. (Inflate cuff
 pressing timer and cuff inflation pedal simultaneously)
-* How is that pressure? (If okay)
-* Would you like to continue the test? (If non committal or showing signs of discomfort).
+* How is that pressure? (_If okay_)
+* Would you like to continue the test? (_If non committal or showing signs of discomfort_).
 * Would you like me to stop the test? (If indicated, STOP test immediately, and thank
 participant for trying the test.) If you have a change of mind, we can stop the test at any
 time. Just let me know and I will stop the test immediately.
@@ -46,7 +46,10 @@ time. Just let me know and I will stop the test immediately.
 <u>Just before deflation time:</u>
 
 * It is time to deflate the cuff now. Please continue to keep your fingers still for the last 5
-minutes. When test ends:
+minutes.
+
+<u>When test ends:</u>u>
+
 * The test is over now. What did you think of the test? Do you have any questions or
 concerns? Thank you (Remove probes and cuff)
 
