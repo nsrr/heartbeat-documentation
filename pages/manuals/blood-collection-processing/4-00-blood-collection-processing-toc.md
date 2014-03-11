@@ -25,10 +25,10 @@
  * [4.3.3 Aliquoting Sample Tubes](:pages_path:/manuals/blood-collection-processing/4-03-03-aliquoting-sample-tubes.md)
  * [4.3.4 Summary of Timing Issues](:pages_path:/manuals/blood-collection-processing/4-03-04-summary-of-timing-issues.md)
  * [4.3.5 Daily Preparation](:pages_path:/manuals/blood-collection-processing/4-03-05-daily-preparation.md)
-   * [4.3.5.1 Supplies](:pages_path:/manuals/blood-collection-processing/4-03-05-01-supplies.md)
+    * [4.3.5.1 Supplies](:pages_path:/manuals/blood-collection-processing/4-03-05-01-supplies.md)
  * [4.3.6 Centrifugation - EDTA, SCAT-1, and Citrate Tubes](:pages_path:/manuals/blood-collection-processing/4-03-06-centrifugation-edta-etc.md)
-   * [4.3.6.1 AM Aliquoting Scheme](:pages_path:/manuals/blood-collection-processing/4-03-06-01-am-aliquoting-scheme.md)
-   * [4.3.6.2 AM Draw](:pages_path:/manuals/blood-collection-processing/4-03-06-02-am-draw.md)
+    * [4.3.6.1 AM Aliquoting Scheme](:pages_path:/manuals/blood-collection-processing/4-03-06-01-am-aliquoting-scheme.md)
+    * [4.3.6.2 AM Draw](:pages_path:/manuals/blood-collection-processing/4-03-06-02-am-draw.md)
  * [4.3.7 Centrifugation - Serum](:pages_path:/manuals/blood-collection-processing/4-03-07-centrifugation-serum.md)
  * [4.3.8 Special Circumstances](:pages_path:/manuals/blood-collection-processing/4-03-08-special-circumstances.md)
  * [4.3.9 Processing Completion](:pages_path:/manuals/blood-collection-processing/4-03-09-processing-completion.md)
@@ -41,9 +41,9 @@
 * 4.5 Shipping Blood and Urine Samples
  * [4.5.1 General](:pages_path:/manuals/blood-collection-processing/4-05-01-general.md)
  * 4.5.2 Packaging Samples
-   * [4.5.2.1 Shipping Checklist](:pages_path:/manuals/blood-collection-processing/4-05-02-01-shipping-checklist.md)
-   * [4.5.2.2 Procedure](:pages_path:/manuals/blood-collection-processing/4-05-02-02-procedure.md)
-   * [4.5.2.3 Processing Forms](:pages_path:/manuals/blood-collection-processing/4-05-02-03-processing-forms.md)
+    * [4.5.2.1 Shipping Checklist](:pages_path:/manuals/blood-collection-processing/4-05-02-01-shipping-checklist.md)
+    * [4.5.2.2 Procedure](:pages_path:/manuals/blood-collection-processing/4-05-02-02-procedure.md)
+    * [4.5.2.3 Processing Forms](:pages_path:/manuals/blood-collection-processing/4-05-02-03-processing-forms.md)
 
 
 <div class="center">
