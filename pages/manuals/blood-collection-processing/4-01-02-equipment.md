@@ -38,7 +38,7 @@ B-D Vacutainer 367281)
  * Blood tube racks
  * Scissors
  * Pens
- * Labels and Phlebotomy Form
+ * Labels and Phlebotomy Form]
  * Biohazardous waste container
  * Needle/sharps container
  * Ice bucket and crushed ice - filled 10 min before draw
@@ -56,7 +56,7 @@ The blood processing area should have the following additional supplies and equi
  * Lab mats and wipes
  * Blood tube rocker
  * 10% bleach solution or approved biohazard disinfectant
- * Refrigerated centrifuge (4C) capable of spinning at a minimum of 2000 x g
+ * Refrigerated centrifuge (4°C) capable of spinning at a minimum of 2000 x g
  * -70°C freezer (or colder) or -20°C freezer and dry ice
  * Refrigerator 
 
