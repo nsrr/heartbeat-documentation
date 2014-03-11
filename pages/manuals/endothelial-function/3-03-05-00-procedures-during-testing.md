@@ -1,12 +1,12 @@
 ## 3.3.5 Procedures During Testing.
 
 * 1. Switch on the Hokanson blood pressure machines
-* 2. set inflation level to 250mm/HG
+* 2. Set inflation level to 250mm/HG
 * 3. Press OK on the laptop to record participant information
 
 MISSING_IMAGE pg 8
 
-* 4. deflate probes by pressing the
+* 4. Deflate probes by pressing the
 deflation button on the top left hand corner of the screen.
 * 5. Place the Endo-PAT probe.
  * Insert the Endo-PAT probe into the groove on the arm support.
