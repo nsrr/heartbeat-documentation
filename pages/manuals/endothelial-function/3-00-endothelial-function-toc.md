@@ -19,7 +19,7 @@
     * [3.3.5.1 Pre-Recording Signal Quality Check](:pages_path:/manuals/endothelial-function/3-03-05-01-pre-recording-signal-quality-check.md)
     * [3.3.5.2 Baseline Recording](:pages_path:/manuals/endothelial-function/3-03-05-02-baseline-recording.md)
     * [3.3.5.3 Occlusion Recording](:pages_path:/manuals/endothelial-function/3-03-05-03-occlusion-recording.md)
-    * [3.3.5.4 Ending the study](:pages_path:/manuals/endothelial-function/3-03-05-04-ending-the-study.md)
+    * [3.3.5.4 Ending the Study](:pages_path:/manuals/endothelial-function/3-03-05-04-ending-the-study.md)
 * [3.5 Data Review and Transmission to the DCC](:pages_path:/manuals/endothelial-function/3-05-data-review-and-transmission.md)
 * [3.6 Peripheral Arterial Tone (PAT) Script](:pages_path:/manuals/endothelial-function/3-06-pat-script.md)
 
