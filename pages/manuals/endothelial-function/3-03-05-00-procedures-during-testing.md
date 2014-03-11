@@ -12,11 +12,11 @@ deflation button on the top left hand corner of the screen.
  * Insert the Endo-PAT probe into the groove on the arm support.
  * Ask the participant to gently place the index fingers (or other selected fingers) into the deflated
 probes.
-    * Do not use injured fingers.
-    * Any finger can be used except the thumb.
-    * If the index finger is very large, may use the little finger.
-    * Use parallel fingers. Care should be taken that the top of the finger is aligned with the top of the probe and connector.
-    * The finger tip must reach all the way to the end of the probe.
+     * Do not use injured fingers.
+     * Any finger can be used except the thumb.
+     * If the index finger is very large, may use the little finger.
+     * Use parallel fingers. Care should be taken that the top of the finger is aligned with the top of the probe and connector.
+     * The finger tip must reach all the way to the end of the probe.
 
 MISSING_IMAGE pg 9
 
@@ -30,16 +30,16 @@ up to the right of the black arrow soon after the probes have been inflated.
 * 7. Apply the blue anchors.
  * Place the foam anchors on the fingers next to the probes, making a
 kink free loop that is not too tight and not too slack.
-    * The tubes should lead distally away from
+     * The tubes should lead distally away from
 the hand.
  * Push the foam anchor to the root of the finger.
-    * Ascertain that the tube-connector on
+     * Ascertain that the tube-connector on
 top of the probe is aligned with the top of the finger.
  * Tape the free end of the tube very gently to
 the tip of the finger making S shape to maintain the anchor perpendicular to the finger axis.
-    * If participant has short fingers and the anchor is resting on the probe, replace the anchor with one
+     * If participant has short fingers and the anchor is resting on the probe, replace the anchor with one
 that has been previously trimmed.
-    * Alternatively, the anchor can be placed on an alternate
+     * Alternatively, the anchor can be placed on an alternate
 finger and the finger next to the probe can be separated using a small piece of gauze or other
 soft padding.
 
