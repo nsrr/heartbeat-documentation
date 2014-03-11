@@ -48,7 +48,7 @@ time. Just let me know and I will stop the test immediately.
 * It is time to deflate the cuff now. Please continue to keep your fingers still for the last 5
 minutes.
 
-<u>When test ends:</u>u>
+<u>When test ends:</u>
 
 * The test is over now. What did you think of the test? Do you have any questions or
 concerns? Thank you (Remove probes and cuff)
