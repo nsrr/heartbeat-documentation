@@ -25,7 +25,7 @@
  * [4.3.3 Aliquoting Sample Tubes](:pages_path:/manuals/blood-collection-processing/4-03-03-aliquoting-sample-tubes.md)
  * [4.3.4 Summary of Timing Issues](:pages_path:/manuals/blood-collection-processing/4-03-04-summary-of-timing-issues.md)
  * [4.3.5 Daily Preparation](:pages_path:/manuals/blood-collection-processing/4-03-05-daily-preparation.md)
- * [4.3.6 Centrifugation - EDTA, SCAT-1, and Citrate Tubes](:pages_path:/manuals/blood-collection-processing/4-03-06-centrifugation-edta-etc.md)
+ * [4.3.6 Centrifugation - EDTA, SCAT-1, and Citrate Tubes](:pages_path:/manuals/blood-collection-processing/4-03-06-00-centrifugation-edta-etc.md)
     * [4.3.6.1 AM Aliquoting Scheme](:pages_path:/manuals/blood-collection-processing/4-03-06-01-am-aliquoting-scheme.md)
     * [4.3.6.2 AM Draw](:pages_path:/manuals/blood-collection-processing/4-03-06-02-am-draw.md)
  * [4.3.7 Centrifugation - Serum](:pages_path:/manuals/blood-collection-processing/4-03-07-centrifugation-serum.md)
