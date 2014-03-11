@@ -10,7 +10,7 @@ After each test and before transmitting to the DCC:
 * 6. Click on View Report.  By clicking on View Report, the report will automatically be saved in Rich Text Format (RTF).
 * 7. Print this report for the participant’s Case Report Form binder. 
 * 8. Go ED2000 Data icon located on your desktop.  Here  you will find the participant’s S32 file and RTF file.  
-* 9. Create a folder named EN11001B
+* 9. Create a folder named **EN11001B**
  * (EN- so we know it’s EndoPAT data)
  * (5 digit participant ID)
  * (B=Baseline; F=Final visit)
