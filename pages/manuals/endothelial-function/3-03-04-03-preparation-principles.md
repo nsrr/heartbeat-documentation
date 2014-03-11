@@ -2,9 +2,9 @@
 
 **The following principles should be adhered to:**
 
-* 15 minutes prior to testing ensure that blood pressure was measured on the control
+* 15 minutes prior to testing ensure that blood pressure was measured on the **control**
 arm (the one which will not have a cuff occlusion)
-* The occluded arm should preferably be the non-dominant arm
+* The occluded arm should preferably be the **non**-dominant arm
 * Use the index fingers as first choice
 * Use paired fingers (for example, both index fingers or both middle fingers or both ring
 fingers) for testing
