@@ -9,7 +9,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/endothelial-function/3-02-01-connecting-communication-cable.mdd" class="btn btn-default">
+  <a href=":pages_path:/manuals/endothelial-function/3-02-01-connecting-communication-cable.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.2.1 Connecting the Communication Cable
   </a>
