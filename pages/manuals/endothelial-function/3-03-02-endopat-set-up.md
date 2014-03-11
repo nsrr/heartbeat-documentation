@@ -1,7 +1,7 @@
 ## 3.3.2 EndoPAT Set Up
 
-1. Switch on Endo-PAT device (at least 20 minutes before the study)
-2. Attach probes to the ends of the tubes that lead from the Endo-PAT device.
+* 1. Switch on Endo-PAT device (at least 20 minutes before the study)
+* 2. Attach probes to the ends of the tubes that lead from the Endo-PAT device.
 
 **Connecting the PAT Probes**
 
