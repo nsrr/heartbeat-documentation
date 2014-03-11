@@ -16,6 +16,7 @@
    * [4.2.4.4 Summary of Blood Mixing During Venipuncture](:pages_path:/manuals/blood-collection-processing/4-02-04-04-summary-of-blood-mixing.md)
    * [4.2.4.5 Setup of Draw Tube and Aliquot Racks](:pages_path:/manuals/blood-collection-processing/4-02-04-05-set-up-of-draw-tube.md)
    * [4.2.4.6 Preparation for Specimen Collection](:pages_path:/manuals/blood-collection-processing/4-02-04-06-preparation-for-specimen-collection.md)
+   * [4.2.4.7 Phlebotomy Form Questions](:pages_path:/manuals/blood-collection-processing/4-02-04-07-phlebotomy-form-questions.md)
  * [4.2.5 Venipuncture Procedure](:pages_path:/manuals/blood-collection-processing/4-02-05-venipuncture-procedure.md)
  * [4.2.6 Troubleshooting](:pages_path:/manuals/blood-collection-processing/4-02-06-troubleshooting.md)
 * 4.3 Processing
