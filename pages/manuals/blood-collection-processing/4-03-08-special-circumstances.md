@@ -6,7 +6,7 @@
 
 * 2. <u>Serum and plasma cannot be frozen within 10 minutes of aliquoting.</U> 
 
-  Every effort should be made to freeze serum and plasma cryovials and the tubes of packed cells at -70C or below as soon as possible after aliquoting.  All samples should be frozen in an upright position.  If specimens cannot be placed immediately at -70C or below, they may be <u>temporarily (< 2 hours)</u> stored at -20C or placed on dry ice until transfer to -70C or below.  Dry ice is the preferred solution.
+  Every effort should be made to freeze serum and plasma cryovials and the tubes of packed cells at -70°C or below as soon as possible after aliquoting.  All samples should be frozen in an upright position.  If specimens cannot be placed immediately at -70°C or below, they may be <u>temporarily (< 2 hours)</u> stored at -20°C or placed on dry ice until transfer to -70°C or below.  Dry ice is the preferred solution.
 
 
 <div class="center">
