@@ -13,7 +13,7 @@
 
   <a href=":pages_path:/manuals/pap-encore-anywhere" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    24-Hour Ambulatory Blood Pressure
+    PAP and Encore Anywhere
   </a>
 
   <a href=":pages_path:/manuals/pap-encore-anywhere/8-02-objective.md" class="btn btn-success">
