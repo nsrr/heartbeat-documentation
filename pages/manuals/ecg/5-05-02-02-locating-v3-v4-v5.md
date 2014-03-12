@@ -7,7 +7,7 @@ MISSING_IMAGE pg 7
 1. Proceed to mark the location of V4, which is at the intersection of the
 midclavicular line and the fifth intercostal space
 
-2. Proceed to mark location V3, which is equidistant between V2 and V4, and V5,
+2. Proceed to mark the location of V3, which is equidistant between V2 and V4, and V5,
 which is equidistant between V4 and V6
 
 **<u>NOTE</u>:** Chest electrode positions are determined with respect to anatomical landmarks on the thorax.
