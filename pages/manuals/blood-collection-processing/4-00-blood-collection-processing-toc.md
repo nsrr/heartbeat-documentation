@@ -52,7 +52,7 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function/blood-collection-processing/4-01-01-background-and-rationale.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/4-01-01-background-and-rationale.md" class="btn btn-success">
     4.1.1 Background and Rationale
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
