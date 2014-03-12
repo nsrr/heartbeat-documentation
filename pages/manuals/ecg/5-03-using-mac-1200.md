@@ -1,0 +1,30 @@
+## 5.3 Using the MAC® 1200
+
+**Figure 1**
+
+MISSING_IMAGE pg 2
+
+**Keyboard Description**: The LCD (Liquid Crystal Display) is on the top part of the MAC® 1200 keyboard and is used for
+entering information and displaying messages. The keyboard descriptions listed below correspond to the MAC® 1200 keyboard in Figure 1.
+
+**Setup note:** RgainS function must be set to R10S and not RautoS. Failure to set the MAC1200 to R105 may result in misinterpretation by local physician reviewer.
+
+
+<div class="center">
+<div class="btn-group">
+  <a href=":pages_path:/manuals/ecg/5-02-recommended-ecg-acquisition.md" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    5.2 Recommended ECG Acquisition Procedures
+  </a>
+
+  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+    Electrocardiogram
+  </a>
+
+  <a href=":pages_path:/manuals/ecg/5-03-01-preparing-ppt.md" class="btn btn-success">
+    5.3.1 Preparing the Participant
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+</div>
