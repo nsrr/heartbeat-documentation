@@ -47,7 +47,7 @@ Any partially-filled cryovial (less than the specified volume) should be marked 
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-centrifugation-edta-etc.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-00-centrifugation-edta-etc.md" class="btn btn-success">
     4.3.6 Centrifugation - EDTA, SCAT-1, and Citrate Tubes
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
