@@ -11,7 +11,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/4-03-07-centrifugation-serum.mdd" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/4-03-07-centrifugation-serum.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     4.3.7 Centrifugation - Serum
   </a>
@@ -26,4 +26,4 @@
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
-</div>
+</div>]
