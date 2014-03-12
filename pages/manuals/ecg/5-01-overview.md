@@ -5,7 +5,7 @@ A standard 12-lead ECG will be performed in a supine or semi-recumbent position 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ecg/5-00-ecg-toc" class="btn btn-default">
+  <a href=":pages_path:/manuals/ecg/5-00-ecg-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
