@@ -9,7 +9,7 @@ The following set of instructions for the setup of the MAC 1200 ECG machines all
 <div class="btn-group">
   <a href=":pages_path:/manuals/ecg/5-05-02-02-locating-v3-v4-v5.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    5.5.2.2 Locating Electrodes V3, V4, V5]
+    5.5.2.2 Locating Electrodes V3, V4, V5
   </a>
 
   <a href=":pages_path:/manuals/ecg" class="btn btn-default">
