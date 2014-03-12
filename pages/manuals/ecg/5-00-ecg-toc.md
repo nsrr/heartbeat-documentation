@@ -2,7 +2,7 @@
 
 * [5.1 Overview](:pages_path:/manuals/ecg/5-01-overview.md)
 * [5.2 Recommended ECG Acquisition Procedures](:pages_path:/manuals/ecg/5-02-recommended-ecg-acquisition.md)
-* [5.3 Using the MAC® 1200](:pages_path:/manuals/ecg/5-03-using-mac-1200.md)
+* [5.3 Using the MAC® 1200](:pages_path:/manuals/ecg/5-03-00-using-mac-1200.md)
  * [5.3.1 Preparing the Participant](:pages_path:/manuals/ecg/5-03-01-preparing-ppt.md)
  * [5.3.2 Entering Participant Data](:pages_path:/manuals/ecg/5-03-02-entering-ppt-data.md)
 * [5.4 Limb Lead Electrode Placement](:pages_path:/manuals/ecg/5-04-limb-lead-placement.md)
