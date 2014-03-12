@@ -15,7 +15,7 @@ The following information is intended to provide special instructions for the te
     Electrocardiogram
   </a>
 
-  <a href=":pages_path:/manuals/ecg/5-03-using-mac-1200.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/ecg/5-03-00-using-mac-1200.md" class="btn btn-success">
     5.3 Using the MAC® 1200
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
