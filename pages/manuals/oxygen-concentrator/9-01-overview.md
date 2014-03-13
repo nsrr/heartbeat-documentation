@@ -14,7 +14,7 @@ The device produces concentrated oxygen from room air for delivery to a patient 
 
   <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    PAP and Encore Anywhere
+    Oxygen Concentrator
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-02-equipment.md" class="btn btn-success">
