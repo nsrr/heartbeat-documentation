@@ -2,7 +2,7 @@
 
 The EverFlo/EverFlo Q Oxygen-Concentrator contains no user-serviceable parts.
 
-**_Warning_:** Do not remove the covers of this device. Servicing must be referred to an authorized and trained Respironics home care provider.**
+**_Warning_: Do not remove the covers of this device. Servicing must be referred to an authorized and trained Respironics home care provider.**
 
 
 <div class="center">
