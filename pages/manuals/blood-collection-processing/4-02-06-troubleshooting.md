@@ -4,21 +4,21 @@
 2. <u>Bandaging the Arm.</u> If the patient continues to bleed apply pressure to the site with a gauze pad.  Keep the arm elevated and straight until the bleeding stops.  A gauze bandage can be tightly wrapped around the arm over the pad, and left on for at least 15 minutes.
 3. <u>Procedures for Difficult Draw.</u> If a blood sample is not forthcoming, the following manipulations may be helpful.
 
-    * If there is a sucking sound, turn needle slightly or lift the holder in an effort to move the bevel edge away from the wall of the vein.
-    * If no blood appears, move needle slightly in hope of entering vein.  Do not probe.  If not successful, release tourniquet and remove needle.  A second attempt can be made on the other arm.
-    * Loosen the tourniquet.  It may have been applied too tightly, thereby stopping the blood flow.  Reapply the tourniquet loosely.  If the tourniquet is a velcro type, quickly release and press back together.  Be sure, however, that the tourniquet remains on for no longer than two minutes at a time.
-    * In general, the phlebotomist should not attempt a venipuncture more than twice.  	However, at the discretion of the phlebotomist and with the approval of the 	patient, the phlebotomist may make additional attempts to obtain a blood sample.
-    * Reassure the participant that the inability to obtain a clean venipuncture is not any sign of a medical problem on their part.
-    * If venipuncture is unsuccessful or requires multiple sticks, this should be noted on the Phlebotomy Form.
+  * If there is a sucking sound, turn needle slightly or lift the holder in an effort to move the bevel edge away from the wall of the vein.
+  * If no blood appears, move needle slightly in hope of entering vein.  Do not probe.  If not successful, release tourniquet and remove needle.  A second attempt can be made on the other arm.
+  * Loosen the tourniquet.  It may have been applied too tightly, thereby stopping the blood flow.  Reapply the tourniquet loosely.  If the tourniquet is a velcro type, quickly release and press back together.  Be sure, however, that the tourniquet remains on for no longer than two minutes at a time.
+  * In general, the phlebotomist should not attempt a venipuncture more than twice.  	However, at the discretion of the phlebotomist and with the approval of the 	patient, the phlebotomist may make additional attempts to obtain a blood sample.
+  * Reassure the participant that the inability to obtain a clean venipuncture is not any sign of a medical problem on their part.
+  * If venipuncture is unsuccessful or requires multiple sticks, this should be noted on the Phlebotomy Form.
 
 4. <u>WHEN A PARTICIPANT FEELS FAINT OR LOOKS FAINT FOLLOWING THE BLOOD COLLECTION.</u>
 
-    * If the person is seated, he/she can sit with the head between the knees if necessary, or allow him to lay down.
-    * Provide the person with a basin if he/she feels nauseous.
-    * Have the person <u>remain supine or seated</u> until the color returns and he/she feels better.
-    * Place a cold wash cloth on the back of the person's neck.
-    * If the person faints, use smelling salts to revive by crushing the ampoule and waving it under the person's nose for a few seconds.
-    * If the person continues to feel sick, contact a medical staff member who will advise you on further action.
+  * If the person is seated, he/she can sit with the head between the knees if necessary, or allow him to lay down.
+  * Provide the person with a basin if he/she feels nauseous.
+  * Have the person <u>remain supine or seated</u> until the color returns and he/she feels better.
+  * Place a cold wash cloth on the back of the person's neck.
+  * If the person faints, use smelling salts to revive by crushing the ampoule and waving it under the person's nose for a few seconds.
+  * If the person continues to feel sick, contact a medical staff member who will advise you on further action.
 
 <u>Other Possible Problems</u>: 
 
