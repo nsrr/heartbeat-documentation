@@ -27,10 +27,11 @@ No data locations will be listed here unless they have been created in **Tools |
 
  * [CR] [techID]_[date of study].
 
-  * An example of this format would be CRtechID_10292007 for certification ( CR103_10292007)
+   * An example of this format would be CRtechID_10292007 for certification ( CR103_10292007)
 
  * [StudyID] [techID]_[date of study].
-  * An example of this format would be StudyIDtechID_10292007 ( 1234103_10292007)
+
+   * An example of this format would be StudyIDtechID_10292007 ( 1234103_10292007)
 
 * 14.	Right click on the folder to create a zip file and use the same naming scheme as above and FTP to the Reading Center.
 
