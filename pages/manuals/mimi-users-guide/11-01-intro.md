@@ -1,6 +1,7 @@
 ## 11.1 Introduction
 
 HeartBEAT project staff will use MIMI, an information management system, to enter project data.  MIMI has been developed in accordance with specifications approved by HeartBEAT investigators.  
+
 In order to use MIMI, users will need a computer and a functioning internet connection.  
 
 
