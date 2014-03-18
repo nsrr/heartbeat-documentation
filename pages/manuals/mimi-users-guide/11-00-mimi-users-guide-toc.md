@@ -1,4 +1,4 @@
-11.0 Table of Contents - MIMI Users Guide
+## 11.0 Table of Contents - MIMI Users Guide
 
 * [11.1 Introduction](:pages_path:/manuals/mimi-users-guide/11-01-intro.md)
 * [11.2 Accessing MIMI](:pages_path:/manuals/mimi-users-guide/11-02-accessing-mimi.md)
