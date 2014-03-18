@@ -8,7 +8,11 @@ To be considered acceptable the recordings submitted for certification must:
 	
 * Have good quality signal on each channel (i.e.: all electrodes must work) and signals must be relatively free from artifact.
 * Reflect HeartBEAT PSG protocol and procedure including placement of electrodes and sensors. 
-* Have correct study identification as a certification recording using the following format when naming (or re-naming) the recording:   [CR] [techID]_[date of study].  An example of this format would be CRtechID_102907.  The electronic recording file must be accompanied with paperwork that matches this naming convention and additionally includes the technician identification and equipment ID.  
+* Have correct study identification as a certification recording using the following format when naming (or re-naming) the recording:   [CR] [techID]_[date of study].
+
+  * An example of this format would be CRtechID_102907.
+
+* The electronic recording file must be accompanied with paperwork that matches this naming convention and additionally includes the technician identification and equipment ID.  
 * Include the following:
  * Signal Evaluation (SE) form.
 
