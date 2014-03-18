@@ -14,7 +14,7 @@
 
  * **An existing data location:** Select this option if the data should be exported to an existing data location in the Recording Manager. From the list of existing data locations, select the location where you want to export your data. 
 No data locations will be listed here unless they have been created in **Tools | Options | Data Locations.** 
- * **Other folder:** Select this option if the data should be exported to a specific folder on the computer or network. You can either enter the location path in the text field or browse to the location by clicking the **Browse** button.
+ * **Other folder:** Select this option if the data should be exported to a specific folder on the computer or network. You can either enter the location path in the text field or browse to the location by clicking the **Brows+e** button.
 
 * 9. Select the **No gain adjustment** scaling method to use when exporting. Click **Next**. 
 
@@ -25,8 +25,12 @@ No data locations will be listed here unless they have been created in **Tools |
 * 12. Click **Finish** to close the Export Data Wizard.
 * 13. Rename the Folder that the files live in with the 
 
- * [CR] [techID]_[date of study].  An example of this format would be CRtechID_10292007 for certification ( CR103_10292007)
- * [StudyID] [techID]_[date of study].  An example of this format would be StudyIDtechID_10292007 ( 1234103_10292007)
+ * [CR] [techID]_[date of study].
+
+  * An example of this format would be CRtechID_10292007 for certification ( CR103_10292007)
+
+ * [StudyID] [techID]_[date of study].
+  * An example of this format would be StudyIDtechID_10292007 ( 1234103_10292007)
 
 * 14.	Right click on the folder to create a zip file and use the same naming scheme as above and FTP to the Reading Center.
 
