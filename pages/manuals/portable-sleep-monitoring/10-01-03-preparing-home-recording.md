@@ -8,6 +8,7 @@
 
 All external sensors connect to the proxy inputs.  The Proxy Input is Color coded except for the nasal cannula which is located next to the proxy.
 
+|:-------|:-----------------------------|
 | Yellow | Abdominal Respiratory Effort |
 | Blue	 | Thoracic Respiratory Effort  |
 | Gray	 | Thermistor                   |
