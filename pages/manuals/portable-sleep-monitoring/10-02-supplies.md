@@ -1,6 +1,6 @@
 ## 10.2 Supplies
 
-All supplies can be ordered through Embla ( http://www.shopembla.us/StoreFront.bok).
+All supplies can be ordered through Embla (http://www.shopembla.us/StoreFront.bok).
 
 
 ### 10.2.1 Thoracic and Abdominal Belts
