@@ -14,7 +14,7 @@
 
  * **An existing data location:** Select this option if the data should be exported to an existing data location in the Recording Manager. From the list of existing data locations, select the location where you want to export your data. 
 No data locations will be listed here unless they have been created in **Tools | Options | Data Locations.** 
- * **Other folder:** Select this option if the data should be exported to a specific folder on the computer or network. You can either enter the location path in the text field or browse to the location by clicking the **Brows+e** button.
+ * **Other folder:** Select this option if the data should be exported to a specific folder on the computer or network. You can either enter the location path in the text field or browse to the location by clicking the **Browse** button.
 
 * 9. Select the **No gain adjustment** scaling method to use when exporting. Click **Next**. 
 
