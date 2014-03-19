@@ -1,14 +1,14 @@
 ## 3.3.5.1 Pre-Recording Signal Quality Check
 
-* 1. Select Standby. (Standby message should be flashing
+1. Select Standby. (Standby message should be flashing
 on the screen.)
-* 2. Adjust gain to visualize the signal.
-* 3. Select one minute time base.
-* 4. Inspect the
+2. Adjust gain to visualize the signal.
+3. Select one minute time base.
+4. Inspect the
 signal for 1 to 2 minutes.
-* 5. Tap on the designated occluded probe to determine whether it is
+5. Tap on the designated occluded probe to determine whether it is
 Probe 1 or 2 on the screen.
-* 6. Make sure there are no leaks for one minute.
+6. Make sure there are no leaks for one minute.
 
 **Note**:  Sometimes a complete occlusion on certain patients cannot be achieved.  If continued pulsations are observed, then inflate another 50 mm Hg to 250 and if continued pulsations, then to a maximum of 300 m Hg.  Sometimes, when the level of the incomplete occlusion is significant it will be written in the this column- “WARNING-incomplete occlusion”.
 
