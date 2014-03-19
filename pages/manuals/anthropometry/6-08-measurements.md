@@ -20,7 +20,7 @@ The subject stands should be instructed to stand erect with arms at the sides an
   <img src=":images_path:/anthro-03.png">
 </div>
 
-## 6.8.4 Waist Circumference
+### 6.8.4 Waist Circumference
 
 The measurement should not be made over clothing. The subject stands erect with the abdomen relaxed, the arms at the sides and feet together. The measurer stands behind the subject and palpates the hip area for the right iliac crest, and draws a line just above the crest using washable marker. A second mark is made in the mid-axillary line. The measurer places a tape around this mark, horizontal to the floor.  The subject is asked to turn slowly, holding the tape in position so that the tape wraps around. This assures that the tape is parallel and that the tape is snug but does not compress the skin.  A mirror may be used to help judge that the position of the tape remains parallel to the floor and in line with the top of the hip crest. The measurement should be taken at the end of a normal expiration, to the nearest 0. 1 cm.  Measurements are made two times and record on the Physical Measurements Form.
 
@@ -28,7 +28,7 @@ The measurement should not be made over clothing. The subject stands erect with 
   <img src=":images_path:/anthro-04.png">
 </div>
 
-## 6.8.5 Neck Size
+### 6.8.5 Neck Size
 
 Neck size is determined with a non-stretchable cloth measuring tape to the nearest 0.1 cm while the subject is seated with the head in the Frankfort horizontal plane, measuring at the point below the thyroid prominence, keeping the tape perpendicular to the horizontal axis of the neck. If the thyroid prominence cannot be located, ask the subject to swallow and feel for the “nob” that bobs up and down. In women, this may not be felt; use a point mid way along the neck, from the point. Take measurement two times, record on the Physical Measurements Form.
 
