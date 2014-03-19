@@ -1,6 +1,8 @@
 ## 3.2.3 Connecting the Tubes to the Device
 
-MISSING_IMAGE pg. 3
+<div class="center">
+  <img src=":images_path:/endf-02.png">
+</div>
 
 
 <div class="center">

@@ -14,19 +14,19 @@ that day.
 
 **Disconnecting the PAT Probes**
 
-MISSING_IMAGE pg 10
+1. Press down on the tab of the probe that protrudes through the
+  <div class="center">
+    <img src=":images_path:/endf-11.png">
+  </div>
 
-MISSING_IMAGE pg 10
+2. Pull the connector away from the probe.
 
-* 1. Press down on the tab of the probe that protrudes through the
-
-MISSING_IMAGE pg 11
-
-* 2. Pull the connector away from the probe.
+  <div class="center">
+    <img src=":images_path:/endf-12.png">
+  </div>
 
 NOTE: If the participant requests that the test be stopped, immediately disconnect all equipment
 and record reason on log sheets and in adverse reaction logbook.
-
 
 <div class="center">
 <div class="btn-group">

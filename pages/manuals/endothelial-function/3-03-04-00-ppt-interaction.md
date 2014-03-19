@@ -11,9 +11,9 @@ for the next 20-25 minutes? If not, do not perform the test. If able to particip
 cuff on the non-dominant forearm of participant well above the elbow. The cuff should not be too
 tight or too loose.
 
-<p>MISSING_IMAGE pg 6</p>
-
-<p>MISSING_IMAGE pg 6</p>
+    <div class="center">
+      <img src=":images_path:/endf-07.png">
+    </div>
   </li>
 </ol>
 

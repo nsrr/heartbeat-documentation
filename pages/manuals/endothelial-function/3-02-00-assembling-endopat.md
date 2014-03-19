@@ -1,7 +1,8 @@
 ## 3.2.0 Assembling the Endo-PAT2000
 
-MISSING_IMAGE pg. 2
-
+<div class="center">
+  <img src=":images_path:/endf-01.png">
+</div>
 
 <div class="center">
 <div class="btn-group">

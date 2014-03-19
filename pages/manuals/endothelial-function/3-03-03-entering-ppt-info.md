@@ -7,7 +7,9 @@
       <li>a. Select PAT – Select New Patient –</li>
       <li>b. Entering subject data - click the patient file icon on the tool bar, the following window will open-up:
 
-        MISSING_IMAGE pg.  5
+        <div class="center">
+          <img src=":images_path:/endf-06.png">
+        </div>
 
         <b>Note:</b> You should always press “New Patient” to enter new patient information. Trying to change existing will result in errors in patient details.
 

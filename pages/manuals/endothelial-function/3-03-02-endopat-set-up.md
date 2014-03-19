@@ -5,18 +5,24 @@
 
     **Connecting the PAT Probes**
 
-    MISSING_IMAGE pg. 4
+    <div class="center">
+      <img src=":images_path:/endf-03.png">
+    </div>
 
     A. Insert the notch on the base of the connector on the tube in the appropriate groove in the
     probe.
 
-    MISSING_IMAGE pg. 4
+    <div class="center">
+      <img src=":images_path:/endf-04.png">
+    </div>
 
     B. Press down the connector onto the probe until the tab of the probe clicks into its place
 
 3. Attach blue “anchors”/circular dividers to clips on tubes of Endo-PAT device
 
-    MISSING_IMAGE pg. 4
+    <div class="center">
+      <img src=":images_path:/endf-05.png">
+    </div>
 
 
 <div class="center">
