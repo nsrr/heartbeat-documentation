@@ -2,9 +2,9 @@
 
 After blood drawing, time before centrifugation: 
 
-* <u>EDTA, SCAT-1 and Citrate</u> - store on ice; preferably <15 minutes (maximum <30 minutes) before  centrifuging.
-* <u>Serum</u>  - store at room temp for at least 30 minutes, but <90 minutes prior to centrifuging.
-* <u>CPT</u> – can store at room temp for up to 2 hours.
+* <u>**EDTA, SCAT-1 and Citrate**</u> - store on ice; preferably <15 minutes (maximum <30 minutes) before  centrifuging.
+* <u>**Serum**</u>  - store at room temp for at least 30 minutes, but <90 minutes prior to centrifuging.
+* <u>**CPT**</u> – can store at room temp for up to 2 hours.
 
 
 <div class="center">
