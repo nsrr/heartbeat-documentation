@@ -15,9 +15,10 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md"
+ class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    24-Hour Ambulatory Blood Pressure
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure/7-01-overview.md" class="btn btn-success">
