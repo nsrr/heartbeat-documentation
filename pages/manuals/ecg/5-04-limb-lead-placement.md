@@ -2,11 +2,11 @@
 
 **Figure 2**
 
-MISSING_IMAGE pg 5
+<div class="center">
+  <img src=":images_path:/ecg-02.png">
+</div>
 
-MISSING_IMAGE pg 5
-
-Begin with the **RIGHT LEG**. This is an important connection as this is the ground connection. A careless skin electrode connection here will influence all ECG leads. 
+Begin with the **RIGHT LEG**. This is an important connection as this is the ground connection. A careless skin electrode connection here will influence all ECG leads.
 
 1. On the inner side of the right leg (between the knee and ankle), place a dot with a felt tip pen or a wax cosmetic pencil.
 2. Prepare an area about 1-2 inches in diameter.

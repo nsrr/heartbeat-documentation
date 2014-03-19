@@ -2,7 +2,9 @@
 
 **Figure 4**
 
-MISSING_IMAGE pg 7
+<div class="center">
+  <img src=":images_path:/ecg-04.png">
+</div>
 
 1. Proceed to mark the location of V4, which is at the intersection of the
 midclavicular line and the fifth intercostal space

@@ -2,7 +2,9 @@
 
 **Figure 3**
 
-MISSING_IMAGE pg 7
+<div class="center">
+  <img src=":images_path:/ecg-03.png">
+</div>
 
 1. Starting from the V2 location, keep the middle finger of your right hand firmly in the fourth
 intercostal space.

@@ -9,7 +9,6 @@ V6 electrode.
 **<u>NOTE</u>:** It is a common mistake to locate the midaxillary line too far anteriorly,
 towards V5 location.
 
-
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/ecg/5-05-02-00-horizontal-reference.md" class="btn btn-default">

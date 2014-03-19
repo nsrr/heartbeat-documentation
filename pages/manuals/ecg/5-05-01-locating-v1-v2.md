@@ -4,7 +4,9 @@
 
 **Figure 3**
 
-MISSING_IMAGE pg 7
+<div class="center">
+  <img src=":images_path:/ecg-03.png">
+</div>
 
 1. Stand on the left side of the participant.
 2. Locate the sternal angle (where the manubrium joins the sternum) firmly in between the index and middle fingers of your right hand at the mid-sternal
