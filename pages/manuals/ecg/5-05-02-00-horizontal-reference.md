@@ -27,9 +27,9 @@ intercostal space at the midsternal line below V1 and V2. It comes close to abou
     5.5.1 Locating Electrodes V1 and V2
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Electrocardiogram
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-05-02-01-locating-v6.md" class="btn btn-success">

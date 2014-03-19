@@ -33,9 +33,9 @@ Do not connect electrode cables until you have completed preparations for the ch
     5.3.2 Entering Participant Data
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Electrocardiogram
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-05-01-locating-v1-v2.md" class="btn btn-success">

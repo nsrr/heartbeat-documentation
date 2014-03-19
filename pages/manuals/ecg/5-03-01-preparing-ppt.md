@@ -25,9 +25,9 @@ The ECG requires that the participant remove all clothing above the waist. The H
     5.3 Using the MAC® 1200
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Electrocardiogram
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-03-02-entering-ppt-data.md" class="btn btn-success">

@@ -33,9 +33,9 @@ press return (↵).
     5.6.2 Initial Setup of MAC® 1200
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Electrocardiogram
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-06-04-pt-data-setup.md" class="btn btn-success">

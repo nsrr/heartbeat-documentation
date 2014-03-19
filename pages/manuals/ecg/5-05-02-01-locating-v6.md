@@ -18,7 +18,7 @@ towards V5 location.
 
   <a href=":pages_path:/manuals/ecg" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Electrocardiogram
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-05-02-02-locating-v3-v4-v5.md" class="btn btn-success">
