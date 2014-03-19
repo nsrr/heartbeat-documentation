@@ -1,4 +1,4 @@
-## 3.1.0 Introduction
+## 3.1 Introduction
 
 The Endo-PAT2000 is a computer based system for non-invasively assessing arterial
 endothelial function. It is based on the use of Peripheral Arterial Tone (PAT) Technology, during

@@ -3,7 +3,7 @@
 Next, the observer should proceed to carry out the first BP reading. <u>The systolic value
 (1st phase Korotkoff) can be identified as the pressure level where the first of 2 or more
 sounds are heard in the appropriate rhythm. The diastolic value (5th phase Korotkoff) can
-be identified as the pressure level where the last of these rhythmic sounds is heard.
+be identified as the pressure level where the last of these rhythmic sounds is heard.</u>
 
 **NOTE:** <u>A single sound heard in isolation</u> (i.e., _not in rhythmic sequence_) before
 the first of the rhythmic sounds (systolic) or following the last of the rhythmic sounds
