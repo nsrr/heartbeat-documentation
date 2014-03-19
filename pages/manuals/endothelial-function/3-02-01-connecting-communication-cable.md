@@ -1,11 +1,8 @@
 ## 3.2.1 Connecting the Communication Cable
 
 1. Connect the provided communication cable to the Endo-PAT Communication port
-
 2. Hand tighten the screws
-
 3. Connect the communication cable to the PC via RS 232 port if available
-
 4. Insert the installation CD and install the software.
 
 
