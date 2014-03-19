@@ -5,6 +5,7 @@
 3. Connect the communication cable to the PC via RS 232 port if available
 4. Insert the installation CD and install the software.
 
+
 * If USB to RS 232 adapter is required, follow the following installation procedure:
 
  * 1. Attach provided USB to RS 232 adapter to a USB outlet on PC
