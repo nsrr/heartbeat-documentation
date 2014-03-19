@@ -12,9 +12,9 @@ In order to use MIMI, users will need a computer and a functioning internet conn
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/mimi-users-guide" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    MIMI Users Guide
   </a>
 
   <a href=":pages_path:/manuals/mimi-users-guide/11-02-accessing-mimi.md" class="btn btn-success">

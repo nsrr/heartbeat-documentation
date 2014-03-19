@@ -10,9 +10,9 @@ When the user is finished using MIMI, he/she must logout of the system by clicki
     11.4 Data Entry Screen
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/mimi-users-guide" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    MIMI Users Guide
   </a>
 </div>
 </div>

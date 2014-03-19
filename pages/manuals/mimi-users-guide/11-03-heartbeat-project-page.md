@@ -16,9 +16,9 @@ By using the ID List or Data Forms sections from the project page, the user will
     11.2 Accessing MIMI
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/mimi-users-guide" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    MIMI Users Guide
   </a>
 
   <a href=":pages_path:/manuals/mimi-users-guide/11-04-data-entry-screen.md" class="btn btn-success">
