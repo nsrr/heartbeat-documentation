@@ -1,19 +1,25 @@
 ## 10.3.2 Viewing Downloaded Data
 
 1. Click on the Somnologica Studio icon
-  MISSING_IMAGE pg 8
+  <div class="center">
+    <img src=":images_path:/psm-01.png">
+  </div>
 
 2. Click on the Participant ID that you would like to view and then click on workpad.
-  MISSING_IMAGE pg 8
+  <div class="center">
+    <img src=":images_path:/psm-02.png">
+  </div>
 
 3. Located at the bottom of the workpad are three tabs:
   * The operation tab = Patient information
   * Embla PSG = Collected ECG and position
   * Embla Resp = All respiratory channel
-    MISSING_IMAGE pg 8
+  <div class="center">
+    <img src=":images_path:/psm-03.png">
+  </div>
 
 4. Use the scroll bar at the bottom of the screen to view your signals or your arrow keys
-5. Once you have reviewed the study, document on the the Embletta evaluation form whether any problems or urgent referrals were seen.
+5. Once you have reviewed the study, document on the Embletta evaluation form whether any problems or urgent referrals were seen.
 
 
 
