@@ -15,9 +15,10 @@ Each measurement will require two observers: a measurer and a recorder. The role
     6.1 Purpose
   </a>
 
-  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md"
+ class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Anthropometry
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/anthropometry/6-03-equipment.md" class="btn btn-success">

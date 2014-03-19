@@ -20,9 +20,10 @@ The length of the measuring tape is checked with the calibrated length rod (usua
     6.5 Certification
   </a>
 
-  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md"
+ class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Anthropometry
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/anthropometry/6-07-subject-preparation.md" class="btn btn-success">
