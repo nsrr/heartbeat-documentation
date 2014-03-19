@@ -25,8 +25,7 @@ The research coordinator will be responsible for programming and calibrating (or
     7.3 Cuff Size Determination
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md"
- class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents - Manuals
   </a>

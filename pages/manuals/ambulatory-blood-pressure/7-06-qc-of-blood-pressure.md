@@ -14,8 +14,7 @@ Quality control will be achieved by central training and certification of all te
     7.5 AMBP Data Quality Control
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md"
- class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents - Manuals
   </a>

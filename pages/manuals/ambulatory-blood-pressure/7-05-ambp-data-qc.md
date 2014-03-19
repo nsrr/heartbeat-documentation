@@ -18,8 +18,7 @@ AMBP data files will be electronically transmitted to the Reading Center (SEE In
     7.4 Placement of AMBP Cuff
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md"
- class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents - Manuals
   </a>
