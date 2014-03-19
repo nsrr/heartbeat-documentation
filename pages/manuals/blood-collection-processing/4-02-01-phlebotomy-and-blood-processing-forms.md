@@ -14,9 +14,9 @@ The completed forms will be included in the sample shipments to LCBR.  Both the 
     4.1.4 Participant ID Labels
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-02-ppt-refusal.md" class="btn btn-success">

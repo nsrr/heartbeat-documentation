@@ -42,9 +42,9 @@ Any partially-filled cryovial (less than the specified volume) should be marked 
     4.3.4 Summary of Timing Issues
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-00-centrifugation-edta-etc.md" class="btn btn-success">

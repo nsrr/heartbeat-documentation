@@ -68,9 +68,9 @@ B-D Vacutainer 367281)
     4.1.1 Background and Rationale
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-01-03-safety-issues-and-precautions.md" class="btn btn-success">

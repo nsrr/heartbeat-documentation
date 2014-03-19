@@ -14,9 +14,9 @@ Rarely, a patient will refuse to provide a urine sample.  Please keep a list of 
     4.4.1 Supplies
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-04-03-urine-collection.md" class="btn btn-success">

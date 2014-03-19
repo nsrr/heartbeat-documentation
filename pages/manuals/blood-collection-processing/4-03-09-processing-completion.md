@@ -14,9 +14,9 @@ Wipe down all work areas with 10% bleach solution (or approved biohazard disinfe
     4.3.8 Special Circumstances
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-04-01-supplies.md" class="btn btn-success">

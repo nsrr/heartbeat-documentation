@@ -10,9 +10,9 @@ There are three questions to ask the participant before the start of venipunctur
     4.2.4.6 Preparation for Specimen Collection
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-05-venipuncture-procedure.md" class="btn btn-success">

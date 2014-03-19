@@ -18,9 +18,9 @@ A total of approximately 40 mL of blood will be drawn from each participant in 5
     4.2.4.2 Phlebotomy/Processing Rooms
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-04-summary-of-blood-mixing.md" class="btn btn-success">

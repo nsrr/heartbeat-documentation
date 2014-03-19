@@ -16,9 +16,9 @@ If any tubes are accidentally mixed during pipetting so that plasma is contamina
     4.3.2 Description of Aliquots
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-04-summary-of-timing-issues.md" class="btn btn-success">

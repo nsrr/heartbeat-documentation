@@ -26,9 +26,9 @@ This shipping protocol follows the procedures mandated by the International Air 
     4.5.2.1 Shipping Checklist
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-05-02-03-processing-forms.md" class="btn btn-success">

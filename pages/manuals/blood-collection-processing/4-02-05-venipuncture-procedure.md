@@ -35,9 +35,9 @@ _**ALWAYS WEAR LATEX GLOVES AND LAB COAT**_
     4.2.4.7 Phlebotomy Form Questions
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-06-troubleshooting.md" class="btn btn-success">

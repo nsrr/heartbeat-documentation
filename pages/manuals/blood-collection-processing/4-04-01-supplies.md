@@ -30,9 +30,9 @@ The following additional supplies should be stocked in the processing area:
     4.3.9 Processing Completion
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-04-02-urine-collection-preparation.md" class="btn btn-success">

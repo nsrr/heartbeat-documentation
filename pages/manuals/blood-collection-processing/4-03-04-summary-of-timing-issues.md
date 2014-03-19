@@ -14,9 +14,9 @@ After blood drawing, time before centrifugation:
     4.3.3 Aliquoting Sample Tubes
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-05-daily-preparation.md" class="btn btn-success">

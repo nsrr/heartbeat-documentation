@@ -14,9 +14,9 @@ Each tube should be treated as follows:
     4.2.4.3 Priority of Tubes
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-05-set-up-of-draw-tube.md" class="btn btn-success">

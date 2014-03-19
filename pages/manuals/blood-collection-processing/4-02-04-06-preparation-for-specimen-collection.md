@@ -16,9 +16,9 @@ Preparation for specimen collection is done in the following manner.  Prior to a
     4.2.4.5 Setup of Draw Tube and Aliquot Racks
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-07-phlebotomy-form-questions.md" class="btn btn-success">

@@ -14,9 +14,9 @@ Once the collection is received, measured and divided, the urine and acid in the
     4.4.3 Urine Collection
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-04-05-aliquoting.md" class="btn btn-success">

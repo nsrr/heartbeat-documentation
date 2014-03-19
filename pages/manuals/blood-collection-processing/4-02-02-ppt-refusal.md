@@ -10,9 +10,9 @@ Rarely, a participant will refuse phlebotomy.  Please keep a list of the ID numb
     4.2.1 Phlebotomy and Blood Processing Forms
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-03-description-of-collection-tubes.md" class="btn btn-success">

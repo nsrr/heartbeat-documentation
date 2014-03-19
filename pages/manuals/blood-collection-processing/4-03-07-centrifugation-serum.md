@@ -10,9 +10,9 @@ Allow the Serum tube to clot for at least 30 minutes at room temperature (maximu
     4.3.6.2 AM Draw
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-08-special-circumstances.md" class="btn btn-success">

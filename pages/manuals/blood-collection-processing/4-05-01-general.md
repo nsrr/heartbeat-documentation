@@ -12,9 +12,9 @@ Samples are shipped <u>only on Mondays or Tuesdays</u> to the LCBR by an overnig
     4.4.5 Urine Aliquoting
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-05-02-01-shipping-checklist.md" class="btn btn-success">

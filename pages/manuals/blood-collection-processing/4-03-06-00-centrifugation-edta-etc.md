@@ -10,9 +10,9 @@ If centrifugation is not immediate, tubes are stored upright on wet ice for up t
     4.3.5 Daily Preparation
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Blood Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-01-am-aliquoting-scheme.md" class="btn btn-success">
