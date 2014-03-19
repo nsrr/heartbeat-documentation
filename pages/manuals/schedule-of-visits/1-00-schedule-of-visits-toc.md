@@ -12,7 +12,7 @@
     Schedule of Visits
   </a>
 
-  <a href=":pages_path:/manuals/schedule-of-visits/1-02-time-window-table.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/schedule-of-visits/1-01-overview.md" class="btn btn-success">
     1.1 Overview
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
