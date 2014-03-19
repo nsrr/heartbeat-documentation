@@ -2,11 +2,13 @@
 
 A total of approximately 40 mL of blood will be drawn from each participant in 5 tubes.  Blood collection must be drawn in the following order:
 
- 1. 10 mL Serum - Red Top
- 2. 5 mL Citrate - Blue Top
- 3. 10 mL EDTA - Purple Top
- 4. 5 mL SCAT-1 - White Top
- 5. 8 mL CPT - Red/Green Top
+| Draw Order | Tube         | Cap Color     |
+|:-----------|:------------:|:-------------:| 
+| 1          | 10 mL  Serum | Red Top       |
+| 2          | 5 mL Citrate | Blue Top      |
+| 3          | 10 mL EDTA   | Purple Top    |
+| 4          | 5 mL SCAT-1  | White Top     |
+| 5          | 8 mL CPT     | Red/Green Top |
 
 
 <div class="center">
