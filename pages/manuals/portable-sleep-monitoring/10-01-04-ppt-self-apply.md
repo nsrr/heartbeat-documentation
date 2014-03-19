@@ -25,8 +25,8 @@
 
 **Oximeter**
 
-* 13. Position the adhesive side of the FlexiWrap on the finger. 
-* 14. Make sure the dotted line is at the base of the finger. 
+* 13. Position the adhesive side of the FlexiWrap on the finger.
+* 14. Make sure the dotted line is at the base of the finger.
 * 15. Carefully fold the flap of the FlexiWrap over the finger.
 * 16. Wrap the sides of the Flexiwrap around the sides of the finger.
 * 17. Secure the sensor wire with tape. ( Please ask the participant to remove any nail polish or artificial nails)
