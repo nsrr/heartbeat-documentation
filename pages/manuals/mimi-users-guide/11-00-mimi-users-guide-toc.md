@@ -10,9 +10,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/mimi-users-guide" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    MIMI Users Guide
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/mimi-users-guide/11-01-intro.md" class="btn btn-success">

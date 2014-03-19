@@ -14,9 +14,9 @@ Once at the login page, the user should enter his/her credentials and login.  Af
     11.1 Introduction
   </a>
 
-  <a href=":pages_path:/manuals/mimi-users-guide" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    MIMI Users Guide
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/mimi-users-guide/11-03-heartbeat-project-page.md" class="btn btn-success">

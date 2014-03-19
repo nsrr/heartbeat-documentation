@@ -12,9 +12,9 @@ Upon clicking Save, the user will be redirected to the listing of forms for that
     11.3 HeartBEAT Project Page
   </a>
 
-  <a href=":pages_path:/manuals/mimi-users-guide" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    MIMI Users Guide
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/mimi-users-guide/11-05-logging-out.md" class="btn btn-success">
