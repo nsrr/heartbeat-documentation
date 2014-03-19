@@ -7,9 +7,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/schedule-of-visits" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Schedule of Visits
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/schedule-of-visits/1-01-overview.md" class="btn btn-success">
