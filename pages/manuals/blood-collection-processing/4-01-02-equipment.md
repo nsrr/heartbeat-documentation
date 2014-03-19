@@ -1,6 +1,6 @@
 ## 4.1.2 Equipment and Supplies
 
-The following supplies are recommended:
+**The following supplies are recommended:**
 
  * 5 mL SCAT-1 tubes (must be stored refrigerated until used) 
  * Cryovials – 0.5mL, 1.5 mL and 4.0 mL, and 10.0 mL with olored caps for color-coding
@@ -20,7 +20,7 @@ The following supplies are recommended:
 	 * 0.5 mL cryovials: Catalog # 02-681-333
 	 * 1.5 mL cryovials: Catalog # 02-681-338
 
-Blood collection requires the following supplies:
+**Blood collection requires the following supplies:**
 
  * Lab coats and gloves
  * Basin (just in case)
@@ -51,7 +51,7 @@ B-D Vacutainer 367281)
 	 * 1 – 8ml CPT tube B-D 362753 (heparinized plasma) (see Appendix A for protocol and processing)
  * Hemoguard caps on the Serum, EDTA and Citrate tubes can be used if desired.   
 
-The blood processing area should have the following additional supplies and equipment:
+**The blood processing area should have the following additional supplies and equipment:**
 
  * Lab mats and wipes
  * Blood tube rocker
