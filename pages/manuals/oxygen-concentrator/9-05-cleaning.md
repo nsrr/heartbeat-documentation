@@ -12,9 +12,9 @@ If you are using a humidifier, clean your device according to your home care pro
     9.4 Participant Use
   </a>
 
-  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Oxygen Concentrator
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-06-cautions.md" class="btn btn-success">

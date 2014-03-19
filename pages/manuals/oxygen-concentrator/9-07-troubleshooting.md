@@ -30,9 +30,9 @@ The device has an audible alarm and three LED indicators, as shown below.
     9.6 Cautions
   </a>
 
-  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Oxygen Concentrator
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-08-service.md" class="btn btn-success">

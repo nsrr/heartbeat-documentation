@@ -17,9 +17,9 @@ Prior to each use, a staff member will ensure that the device is cleaned and tha
     9.1 Overview
   </a>
 
-  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Oxygen Concentrator
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-03-location.md" class="btn btn-success">

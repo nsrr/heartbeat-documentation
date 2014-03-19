@@ -14,9 +14,9 @@ _A caution represents the possibility of damage to the equipment._
     9.5 Cleaning
   </a>
 
-  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Oxygen Concentrator
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-07-troubleshooting.md" class="btn btn-success">
