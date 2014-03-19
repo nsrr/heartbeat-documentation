@@ -18,9 +18,10 @@ It is important to use the appropriate cuff size to ensure accuracy and prevent 
     7.2 Equipment
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md"
+ class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    24-Hour Ambulatory Blood Pressure
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure/7-04-placement-of-ambp-cuff.md" class="btn btn-success">

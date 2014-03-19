@@ -8,7 +8,7 @@ This form, and the edited APB file, will be electronically transmitted to the DC
 2.	Nocturnal BP dipping (Systolic, diastolic, and mean BP dipping during sleep derived by calculating the difference between awake and sleep BP, expressed as a percentage of BP during wakefulness)
 3.	BP variability during sleep (average SD of sleep systolic, diastolic, and mean BPs).
 
-AMBP data files will be electronically transmitted to the Reading Center (SEE Instructions for ftp data transmissions). Artifacts will be edited and each record will be coded for duration of recording, and number of valid and artifactual readings (BP Quality Form). 
+AMBP data files will be electronically transmitted to the Reading Center (SEE Instructions for ftp data transmissions). Artifacts will be edited and each record will be coded for duration of recording, and number of valid and artifactual readings (BP Quality Form).
 
 
 <div class="center">
@@ -18,9 +18,10 @@ AMBP data files will be electronically transmitted to the Reading Center (SEE In
     7.4 Placement of AMBP Cuff
   </a>
 
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md"
+ class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    24-Hour Ambulatory Blood Pressure
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure/7-06-qc-of-blood-pressure.md" class="btn btn-success">
