@@ -18,7 +18,7 @@ The device produces concentrated oxygen from room air for delivery to a patient 
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-02-equipment.md" class="btn btn-success">
-    8.2 Objective
+    9.2 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
