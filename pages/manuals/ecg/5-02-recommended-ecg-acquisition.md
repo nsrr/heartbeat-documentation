@@ -10,9 +10,9 @@ The following information is intended to provide special instructions for the te
     5.1 Overview
   </a>
 
-  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Electrocardiogram
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-03-00-using-mac-1200.md" class="btn btn-success">

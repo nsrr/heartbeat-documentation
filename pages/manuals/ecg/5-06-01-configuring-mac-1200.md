@@ -12,9 +12,9 @@ The following set of instructions for the setup of the MAC 1200 ECG machines all
     5.5.2.2 Locating Electrodes V3, V4, V5
   </a>
 
-  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Electrocardiogram
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-06-02-initial-setup-mac-1200.md" class="btn btn-success">

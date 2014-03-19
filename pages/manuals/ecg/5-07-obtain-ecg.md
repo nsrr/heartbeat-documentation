@@ -10,9 +10,9 @@ Press Start to obtain the ECG. Ensure there is no movement. Make two copies. Mai
     5.6.5 Setup for HeartBEAT Technician IDs
   </a>
 
-  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Electrocardiogram
+    Table of Contents - Manuals
   </a>
 </div>
 </div>
