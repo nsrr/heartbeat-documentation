@@ -19,8 +19,8 @@ The completed forms will be included in the sample shipments to LCBR.  Both the 
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/4-02-01-phlebotomy-and-blood-processing-forms.md" class="btn btn-success">
-    4.2.1 Phlebotomy and Blood Processing Forms
+  <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-02-phlebotomy-processing-rooms.md" class="btn btn-success">
+    4.2.4.2 Phlebotomy/Processing Room
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
