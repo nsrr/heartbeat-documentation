@@ -20,9 +20,9 @@
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/mild-expected-ae" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Mild Expected Adverse Events
+    Table of Contents - Manuals
   </a>
 </div>
 </div>

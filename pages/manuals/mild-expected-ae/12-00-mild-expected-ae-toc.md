@@ -6,9 +6,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/mild-expected-ae" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Mild Expected Adverse Events
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/mild-expected-ae/12-01-mild-expected-ae-table.md" class="btn btn-success">
