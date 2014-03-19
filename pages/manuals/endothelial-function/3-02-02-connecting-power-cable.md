@@ -1,10 +1,10 @@
 ## 3.2.2 Connecting the Power Cable
 
-* Make sure the power switch on the Endo-PAT device is OFF
-* Attach the provided power supply DC cable to the Endo-PAT
-* Loop the power cable and hook it to the nearby anchor
-* Attach the power cable to the electric outlet
-* When the power switch is turned ON a red LED will light up
+1. Make sure the power switch on the Endo-PAT device is OFF
+2. Attach the provided power supply DC cable to the Endo-PAT
+3. Loop the power cable and hook it to the nearby anchor
+4. Attach the power cable to the electric outlet
+5. When the power switch is turned ON a red LED will light up
 
 
 <div class="center">
