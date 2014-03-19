@@ -9,18 +9,18 @@ The following supplies should be stocked in the patient’s room urine collectio
 
 The following additional supplies should be stocked in the processing area:
 
- * 1M Acetic Acid 
+ * 1M Acetic Acid
  * Barcode ID labels for specimens and final aliquots*
  * 4.0 mL Sarstedt cryovials
- * 10.0  mL Krackler cryovials with yellow and green cap inserts 
- * Sterile bottle for urine collection 
+ * 10.0  mL Krackler cryovials with yellow and green cap inserts
+ * Sterile bottle for urine collection
  * 10% bleach solution or approved disinfectant
  * Lab mats and wipes
  * Pipets 3 mL, 9mL and 25 mL volumes
  * Refrigerator
  * -70° C freezer (or -20° C freezer and dry ice)
 
-*Provided by the LCBR 
+*Provided by the LCBR
 
 
 <div class="center">
@@ -30,9 +30,9 @@ The following additional supplies should be stocked in the processing area:
     4.3.9 Processing Completion
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-04-02-urine-collection-preparation.md" class="btn btn-success">

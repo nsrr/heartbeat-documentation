@@ -10,9 +10,9 @@ To facilitate accurate tracking of collected specimens, we recommend that you se
     4.2.4.4 Summary of Blood Mixing During Venipuncture
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-06-preparation-for-specimen-collection.md" class="btn btn-success">

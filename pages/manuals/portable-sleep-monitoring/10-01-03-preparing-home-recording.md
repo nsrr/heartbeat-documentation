@@ -5,7 +5,8 @@
 3. Thread one end of the elastic strap through one of the handles on the holster.
 4. Encircle the soft pad flaps around the proxy
 5. Place the sensor wires into the cable holster
-  * All external sensors connect to the proxy inputs.  The Proxy Input is Color coded except for the nasal cannula which is located next to the proxy.
+
+All external sensors connect to the proxy inputs.  The Proxy Input is Color coded except for the nasal cannula which is located next to the proxy.
 
     | Color  | Proxy Input                  |
     |:-------|:-----------------------------|

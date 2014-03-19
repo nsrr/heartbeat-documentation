@@ -1,6 +1,6 @@
 ## 4.3.4 Summary of Timing Issues
 
-After blood drawing, time before centrifugation: 
+After blood drawing, time before centrifugation:
 
 * <u>**EDTA, SCAT-1 and Citrate**</u> - store on ice; preferably <15 minutes (maximum <30 minutes) before  centrifuging.
 * <u>**Serum**</u>  - store at room temp for at least 30 minutes, but <90 minutes prior to centrifuging.
@@ -14,9 +14,9 @@ After blood drawing, time before centrifugation:
     4.3.3 Aliquoting Sample Tubes
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-05-daily-preparation.md" class="btn btn-success">

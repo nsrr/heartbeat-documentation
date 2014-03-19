@@ -10,9 +10,9 @@ The blood drawing takes place in a designated area which should be equipped with
     4.2.4.1 Preparation of Participants for Phelbotomy
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-04-03-priority-of-tubes.md" class="btn btn-success">
