@@ -2,9 +2,9 @@
 
 Each tube should be treated as follows:
 
- * Tube #1, Serum – DO NOT MIX; place in rack at room temperature for at least 30 minutes, but no longer than 90 minutes.
- * Tubes # 2, 3, and 4 - Place on mixer for ~30 seconds, then place in ice bath.
- * Tube # 5 - See appendix 4 for processing
+ * <u>**Tube #1**</u> - Serum – DO NOT MIX; place in rack at room temperature for at least 30 minutes, but no longer than 90 minutes.
+ * <u>**Tubes # 2, 3, and 4**</u> - Place on mixer for ~30 seconds, then place in ice bath.
+ * <u>**Tube # 5**</u> - See appendix 4 for processing
 
 
 <div class="center">
