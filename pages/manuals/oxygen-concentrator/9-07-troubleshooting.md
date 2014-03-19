@@ -4,7 +4,9 @@
 
 The device has an audible alarm and three LED indicators, as shown below.
 
-MISSING_IMAGE pg 5
+<div class="center">
+  <img src=":images_path:/oxygen-07.png">
+</div>
 
 | Audible Alarm/Colored LED | Possible Cause | Your Action |
 |:--------------------------|:---------------|:------------|

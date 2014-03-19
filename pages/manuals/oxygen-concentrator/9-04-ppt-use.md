@@ -6,27 +6,39 @@ Participant will be asked to take home or receive at home the oxygen concentrati
 2. After reading this entire manual, plug the power cord into an electrical outlet.
 3. Do either Step A or Step B below.
   * a. If you are not using a humidifier, connect your nasal cannula to the Oxygen Outlet Port, as shown in the picture below.
-    <p>MISSING_IMAGE pg 2</p>
+    <div class="center">
+      <img src=":images_path:/oxygen-01.png">
+    </div>
   * b. If you are using a humidifier, follow the steps below:
 
 4. Open the filter door on the back of the device as shown.
-  MISSING_IMAGE pg 2
+  <div class="center">
+    <img src=":images_path:/oxygen-02.png">
+  </div>
 
 5. Remove the humidifier connector tube from the back of the door and replace the filter door, as shown above.
 6. Fill your humidifier bottle with distilled water.  If you are refilling it, disinfect it using a sani-wipe, allowing it to air dry.
 7. Mount the filled humidifier on the top of the EverFlo device inside the Velcro strap, as shown in the illustration on the right.
-  MISSING_IMAGE pg 2
+  <div class="center">
+    <img src=":images_path:/oxygen-03.png">
+  </div>
 
 8. Tighten the Velcro strap around the bottle and secure it so it is held firmly in place.
 9. Connect the humidifier connector tube (that you retrieved from the filter door) to the Oxygen Outlet Port
-  MISSING_IMAGE pg 3
+  <div class="center">
+    <img src=":images_path:/oxygen-04.png">
+  </div>
 
 10. Connect the other end of the humidifier connector tube to the top of the humidifier with the elbow in the tubing facing the front, as shown here.
-  MISSING_IMAGE pg 3
+  <div class="center">
+    <img src=":images_path:/oxygen-05.png">
+  </div>
 
 11. Connect your cannula to the humidifier bottle according to the humidifier bottle manufacturer's specifications.
 12. Press the power switch to the “On” [|] position.  Initially, all the LEDs will illuminate and the audible alert will beep for a few seconds.  After that time, only the green LED should remain lit.  You can begin breathing from the device immediately even though it typically takes l0 minutes to reach oxygen purity specifications.
-  MISSING_IMAGE pg 4
+  <div class="center">
+    <img src=":images_path:/oxygen-06.png">
+  </div>
 
 13. The knob on the top of the flow meter will be pre-adjusted to the prescribed setting.  Do not attempt to adjust the flow rate.
 14. Be sure oxygen is flowing through the cannula. If it is not, contact the study coordinator.
