@@ -1,25 +1,37 @@
 ## 3.3.3 Entering Participant Information
 
-* 4. Switch on Laptop and Enter Participant Information
- * a. Select PAT – Select New Patient –
- * b. Entering subject data - click the patient file icon on the tool bar, the following window will open-up:
+<ol start="4">
+  <li>
+    Switch on Laptop and Enter Participant Information
+    <ul>
+      <li>a. Select PAT – Select New Patient –</li>
+      <li>b. Entering subject data - click the patient file icon on the tool bar, the following window will open-up:
 
-MISSING_IMAGE pg.  5
+        MISSING_IMAGE pg.  5
 
-**Note:** You should always press “New Patient” to enter new patient information. Trying to
-change existing will result in errors in patient details.
+        <b>Note:</b> You should always press “New Patient” to enter new patient information. Trying to change existing will result in errors in patient details.
 
-* Under Patient ID, enter **EN11OO1B**
- * EN - So we know it's EndoPAT data
- * 5-digit participant ID
- * B = Baseline or F = Final Visit
-* Under **Patient Name**, enter Name Code (first 2 characters of first and last name)
-* Enter age, sex, diastolic blood pressure in labeled boxes
-* Enter Baseline or Final Visit in the comments section
-* Under **Sonographer**, enter Staff ID
+        <ul>
+          <li>Under Patient ID, enter <b>EN11OO1B</b>
+            <ul>
+              <li>EN - So we know it's EndoPAT data</li>
+              <li>5-digit participant ID</li>
+              <li>B = Baseline or F = Final Visit</li>
+            </ul>
+          </li>
+          <li>Under <b>Patient Name</b>, enter Name Code (first 2 characters of first and last name)</li>
+          <li>Enter age, sex, diastolic blood pressure in labeled boxes</li>
+          <li>Enter Baseline or Final Visit in the comments section</li>
+          <li>Under <b>Sonographer</b>, enter Staff ID</li>
+        </ul>
 
-**Never enter identifying information. Double check information entered.  Once you click OK, information can not be edited.**  Click OK to save.
- 
+        <b>Never enter identifying information. Double check information entered.  Once you click OK, information can not be edited.</b>  Click OK to save.
+      </li>
+    </ul>
+  </li>
+</ol>
+
+
 
 <div class="center">
 <div class="btn-group">

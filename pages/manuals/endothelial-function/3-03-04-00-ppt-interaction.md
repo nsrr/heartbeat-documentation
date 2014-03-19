@@ -1,17 +1,21 @@
 ## 3.3.4 Participant Interaction
 
-* 5. Greet participant and ask PAT questions (see Peripheral Arterial Tone (PAT) Script)
-Explain test to participant and explaining that we can stop the test at any time.
-
-* 6. Have patient lie down and apply a BP cuff. Ask the subject if s/he can lie down comfortably
+<ol start="5">
+  <li>
+    Greet participant and ask PAT questions (see Peripheral Arterial Tone (PAT) Script)<br />
+    Explain test to participant and explaining that we can stop the test at any time.
+  </li>
+  <li>
+    Have patient lie down and apply a BP cuff. Ask the subject if s/he can lie down comfortably
 for the next 20-25 minutes? If not, do not perform the test. If able to participate, place the BP
 cuff on the non-dominant forearm of participant well above the elbow. The cuff should not be too
 tight or too loose.
 
-MISSING_IMAGE pg 6
+<p>MISSING_IMAGE pg 6</p>
 
-MISSING_IMAGE pg 6
-
+<p>MISSING_IMAGE pg 6</p>
+  </li>
+</ol>
 
 <div class="center">
 <div class="btn-group">
