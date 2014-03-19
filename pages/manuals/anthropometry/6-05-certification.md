@@ -16,8 +16,7 @@ Research staff who do not participate in central training may be trained and cer
     6.4 Quality Assurance
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md"
- class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents - Manuals
   </a>

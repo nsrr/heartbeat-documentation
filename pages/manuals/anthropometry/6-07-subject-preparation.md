@@ -12,8 +12,7 @@ gowns.  All measurements will be performed in a private area.
     6.6 Calibration of Equipment
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md"
- class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents - Manuals
   </a>

@@ -10,8 +10,7 @@ To standardize the collection of height, waist, hip, neck, weight measurements.
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md"
- class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Table of Contents - Manuals
   </a>
