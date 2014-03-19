@@ -15,8 +15,8 @@ Obtain 4-7 days of recording
     PAP and Encore Anywhere
   </a>
 
-  <a href=":pages_path:/manuals/pap-encore-anywhere/8-02-objective.md" class="btn btn-success">
-    8.2 Objective
+  <a href=":pages_path:/manuals/pap-encore-anywhere/8-03-procedure.md" class="btn btn-success">
+    8.3 Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
