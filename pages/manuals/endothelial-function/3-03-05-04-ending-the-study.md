@@ -2,14 +2,14 @@
 
 **Ending the Study**
 
-* 1. Inform participant that you are about to end the study.
-* 2. Click STOP. Probes should automatically deflate. The Recorded study will close and disappear from the
+1. Inform participant that you are about to end the study.
+2. Click STOP. Probes should automatically deflate. The Recorded study will close and disappear from the
 screen.
-* 3. Remove the probes and anchors from the participants’ fingers.
-* 4. Detach the probes and
+3. Remove the probes and anchors from the participants’ fingers.
+4. Detach the probes and
 marked as “used.”
-* 5. Wrap tubes around the device.
-* 6. Turn off machines if there are no further tests
+5. Wrap tubes around the device.
+6. Turn off machines if there are no further tests
 that day.
 
 **Disconnecting the PAT Probes**
