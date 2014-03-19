@@ -51,9 +51,9 @@ suspended over the edge, ensuring that they do not touch the probes.
     3.3.4.3 Preparation Principles
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Endothelial Function
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-05-01-pre-recording-signal-quality-check.md" class="btn btn-success">

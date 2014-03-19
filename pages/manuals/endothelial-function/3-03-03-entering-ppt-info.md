@@ -42,9 +42,9 @@
     3.3.2 EndoPAT Set Up
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Endothelial Function
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-04-00-ppt-interaction.md" class="btn btn-success">

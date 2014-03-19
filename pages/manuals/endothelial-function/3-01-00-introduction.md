@@ -13,9 +13,9 @@ reactive hyperemia induced by upper arm blood flow occlusion.
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Endothelial Function
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-01-01-equipment.md" class="btn btn-success">

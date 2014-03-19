@@ -18,9 +18,9 @@ Please allow for a minimum of 15 minutes per test.
     3.2.3 Connecting the Tubes to the Device
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Endothelial Function
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-02-endopat-set-up.md" class="btn btn-success">

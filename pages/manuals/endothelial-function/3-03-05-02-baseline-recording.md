@@ -17,9 +17,9 @@ occur, stop, replace probes and start over.
     3.3.5.1 Pre-Recording Signal Quality Check
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Endothelial Function
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-05-03-occlusion-recording.md" class="btn btn-success">

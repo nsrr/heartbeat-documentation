@@ -61,9 +61,9 @@ concerns? Thank you (Remove probes and cuff)
     3.5 Data Review and Transmission to the DCC
   </a>
 
-  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Endothelial Function
+    Table of Contents - Manuals
   </a>
 </div>
 </div>
