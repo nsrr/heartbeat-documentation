@@ -1,7 +1,7 @@
 ## 8.1 Purpose
 
 * To establish a simple, standardized approach to reviewing AutoPAP data.
-* To determine an appropriate fixed pressure for a HeartBEAT study participant. 
+* To determine an appropriate fixed pressure for a HeartBEAT study participant.
 
 
 <div class="center">

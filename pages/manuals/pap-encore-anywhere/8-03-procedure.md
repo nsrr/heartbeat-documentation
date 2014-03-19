@@ -20,9 +20,9 @@ Studies that **DO NOT MEET** these basic quality criteria should be repeated in 
     8.2 Objective
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pap-encore-anywhere" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    PAP and Encore Anywhere
   </a>
 </div>
 </div>
