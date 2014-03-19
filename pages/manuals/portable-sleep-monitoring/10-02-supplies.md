@@ -1,6 +1,6 @@
 ## 10.2 Supplies
 
-All supplies can be ordered through Embla (http://www.shopembla.us/StoreFront.bok).
+All supplies can be ordered through Embla: http://www.shopembla.com/
 
 
 ### 10.2.1 Thoracic and Abdominal Belts
@@ -19,10 +19,10 @@ All supplies can be ordered through Embla (http://www.shopembla.us/StoreFront.bo
 
 **Unit:** Pack of 50
 
-**Compatible with:** Compass F10,Embla A10,Embla S4000,Embla S7000/N7000,Embletta,Monet SLP,Monet SLP+,Other Systems,Vincent 
+**Compatible with:** Compass F10,Embla A10,Embla S4000,Embla S7000/N7000,Embletta,Monet SLP,Monet SLP+,Other Systems,Vincent
 
 **Description:** 50 short cannulas with a luer connector.
- 
+
 ### 10.2.3 ECG Pads
 
 **<u>Disposable Electrodes LM/EKG Wet Gel</u>**\
@@ -31,7 +31,7 @@ All supplies can be ordered through Embla (http://www.shopembla.us/StoreFront.bo
 
 **Unit:** Pack of 25
 
-**Compatible with:** Artisan,Embla A10,Embla S4000,Embla S7000/N7000,Embletta,Monet SLP,Monet SLP+,Other Systems,Vincent 
+**Compatible with:** Artisan,Embla A10,Embla S4000,Embla S7000/N7000,Embletta,Monet SLP,Monet SLP+,Other Systems,Vincent
 
 **Description:** A pack of 25 disposable LM/EKG electrodes. Size 2in/48mm.
 
@@ -44,10 +44,10 @@ All supplies can be ordered through Embla (http://www.shopembla.us/StoreFront.bo
 
 **Unit:** Pack of 25
 
-**Compatible with:**  Artisan,Compass F10,Compass M10,Embla A10,Embla S4000,Embla S7000/N7000,Embletta,Monet SLP,Monet SLP+,Other Systems,Vincent 
+**Compatible with:**  Artisan,Compass F10,Compass M10,Embla A10,Embla S4000,Embla S7000/N7000,Embletta,Monet SLP,Monet SLP+,Other Systems,Vincent
 
 **Description:** A pack of 25 adult flexiwraps.
- 
+
 
 <div class="center">
 <div class="btn-group">
