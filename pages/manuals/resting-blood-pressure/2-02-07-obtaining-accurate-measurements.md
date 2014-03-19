@@ -28,6 +28,7 @@ observed SBP and DBP values are recorded on the BP form.
 10. Remove the cuff and store the equipment safely after the last reading.
 
 <u>**Ways to emphasize sounds</u>:**
+
 * Rapidly inflate the cuff (standard technique).
 * Inflate the cuff while the arm is elevated straight up.
 * Open and close the fist several times rapidly after the cuff has been inflated
