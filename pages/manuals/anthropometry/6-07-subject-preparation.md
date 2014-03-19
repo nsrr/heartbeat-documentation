@@ -1,8 +1,8 @@
 ## 6.7 Subject Preparation
 
-Participants should be instructed to wear loose, lightweight 
-clothing and not blue jeans. If not, they will be provided with standard hospital 
-gowns.  All measurements will be performed in a private area. 
+Participants should be instructed to wear loose, lightweight
+clothing and not blue jeans. If not, they will be provided with standard hospital
+gowns.  All measurements will be performed in a private area.
 
 
 <div class="center">
@@ -17,7 +17,7 @@ gowns.  All measurements will be performed in a private area.
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-08-measurements.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-08-measurements.md" class="btn btn-success">
     6.8 Measurements
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

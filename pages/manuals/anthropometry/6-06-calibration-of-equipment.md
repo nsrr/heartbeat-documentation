@@ -2,7 +2,7 @@
 
 ### 6.6.1 Stadiometer
 
-Every week, calibration should be performed and recorded in a calibration log book. It is performed by measuring the height of the standard metal bar.  If the standard bar does not measure its exact length, the supervisor in charge of equipment maintenance for the research equipment should be notified, who will contact Facilities Engineering or other appropriate parties to correct this. 
+Every week, calibration should be performed and recorded in a calibration log book. It is performed by measuring the height of the standard metal bar.  If the standard bar does not measure its exact length, the supervisor in charge of equipment maintenance for the research equipment should be notified, who will contact Facilities Engineering or other appropriate parties to correct this.
 
 ### 6.6.2 Healthometer Digital Scale
 
@@ -25,7 +25,7 @@ The length of the measuring tape is checked with the calibrated length rod (usua
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-07-subject-preparation.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-07-subject-preparation.md" class="btn btn-success">
     6.7 Subject Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

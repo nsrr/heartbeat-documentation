@@ -20,7 +20,7 @@ Each measurement will require two observers: a measurer and a recorder. The role
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-03-equipment.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-03-equipment.md" class="btn btn-success">
     6.3 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

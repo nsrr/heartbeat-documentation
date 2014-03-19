@@ -6,7 +6,7 @@
 2. Evidence of agreement of 3 replicate readings within .5 cms or 0.1 kg (for weight) for each volunteer measuerd.
 3. Evidence of agreement with the standard (ie. Trainer) to within 0.5 cms or 0.1 kg (for weight), using the average of 3 readings per practice study subject.
 
-Research staff who do not participate in central training may be trained and certified by a centrally trained and certified individual, or with approval, by a local expert approved by the SDCC. 
+Research staff who do not participate in central training may be trained and certified by a centrally trained and certified individual, or with approval, by a local expert approved by the SDCC.
 
 
 <div class="center">
@@ -21,7 +21,7 @@ Research staff who do not participate in central training may be trained and cer
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-06-calibration-of-equipment.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-06-calibration-of-equipment.md" class="btn btn-success">
     6.6 Calibration of Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

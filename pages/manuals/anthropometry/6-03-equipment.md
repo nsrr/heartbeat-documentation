@@ -18,7 +18,7 @@
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-04-quality-assurance.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-04-quality-assurance.md" class="btn btn-success">
     6.4 Quality Assurance
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

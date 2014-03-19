@@ -1,6 +1,6 @@
 ## 6.1 Purpose
 
-To standardize the collection of height, waist, hip, neck, weight measurements. 
+To standardize the collection of height, waist, hip, neck, weight measurements.
 
 
 <div class="center">
@@ -15,7 +15,7 @@ To standardize the collection of height, waist, hip, neck, weight measurements.
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-02-personnel.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-02-personnel.md" class="btn btn-success">
     6.2 Personnel
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>

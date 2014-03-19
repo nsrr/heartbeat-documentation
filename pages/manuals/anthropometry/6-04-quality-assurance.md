@@ -4,9 +4,9 @@ There are many possible sources of error in making anthropometric measurements. 
 
 * Central training and certification of staff;
 * Use of a 2-member team (a “measurer” and a “recorder”)
-* Use of duplicate readings; 
-* Use of  instrument calibration procedures; 
-* Ongoing observation of technique; 
+* Use of duplicate readings;
+* Use of  instrument calibration procedures;
+* Ongoing observation of technique;
 * SDCC monitoring of between and within subject variability, digit preference, etc.
 
 
@@ -22,7 +22,7 @@ There are many possible sources of error in making anthropometric measurements. 
     Anthropometry
   </a>
 
-  <a href=":pages_path:/manuals/antropometry/6-05-certification.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthropometry/6-05-certification.md" class="btn btn-success">
     6.5 Certification
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
