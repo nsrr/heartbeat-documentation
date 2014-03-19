@@ -21,9 +21,9 @@ more than 1/6 inch (4 mm from the tip of the finger)
     3.3.4.1 Explaining the Procedure
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Endothelial Function
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-04-03-preparation-principles.md" class="btn btn-success">

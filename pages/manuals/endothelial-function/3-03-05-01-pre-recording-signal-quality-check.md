@@ -19,9 +19,9 @@ Probe 1 or 2 on the screen.
     3.3.5 Procedures During Testing
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Endothelial Function
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-05-02-baseline-recording.md" class="btn btn-success">

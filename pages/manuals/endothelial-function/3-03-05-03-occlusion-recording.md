@@ -36,9 +36,9 @@ to fit the screen.
     3.3.5.2 Baseline Recording
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Endothelial Function
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-05-04-ending-the-study.md" class="btn btn-success">

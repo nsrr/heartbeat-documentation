@@ -24,9 +24,9 @@ tight or too loose.
     3.3.3 Entering Participant Information
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Endothelial Function
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-03-04-01-explaining-procedure.md" class="btn btn-success">

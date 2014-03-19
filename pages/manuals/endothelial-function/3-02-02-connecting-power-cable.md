@@ -14,9 +14,9 @@
     3.2.1 Connecting the Communication Cable
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/endothelial-function" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Endothelial Function
   </a>
 
   <a href=":pages_path:/manuals/endothelial-function/3-02-03-connecting-tubes.md" class="btn btn-success">
