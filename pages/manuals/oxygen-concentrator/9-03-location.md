@@ -10,9 +10,9 @@ For proper operation, your concentrator requires unobstructed ventilation. The v
     9.2 Equipment
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Oxygen Concentrator
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-04-ppt-use.md" class="btn btn-success">

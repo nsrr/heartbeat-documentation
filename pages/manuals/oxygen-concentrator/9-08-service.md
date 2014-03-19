@@ -12,9 +12,9 @@ The EverFlo/EverFlo Q Oxygen-Concentrator contains no user-serviceable parts.
     9.7 Troubleshooting
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Oxygen Concentrator
   </a>
 </div>
 </div>

@@ -12,9 +12,9 @@ The device produces concentrated oxygen from room air for delivery to a patient 
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Oxygen Concentrator
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-02-equipment.md" class="btn btn-success">

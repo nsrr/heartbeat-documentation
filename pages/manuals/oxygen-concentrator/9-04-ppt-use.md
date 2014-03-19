@@ -53,9 +53,9 @@ Participant will be asked to take home or receive at home the oxygen concentrati
     9.3 Location
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/oxygen-concentrator" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Oxygen Concentrator
   </a>
 
   <a href=":pages_path:/manuals/oxygen-concentrator/9-05-cleaning.md" class="btn btn-success">
