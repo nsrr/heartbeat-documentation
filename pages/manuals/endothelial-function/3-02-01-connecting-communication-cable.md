@@ -1,15 +1,17 @@
 ## 3.2.1 Connecting the Communication Cable
 
-* Connect the provided communication cable to the Endo-PAT Communication port
-* Hand tighten the screws
-* Connect the communication cable to the PC via RS 232 port if available
-* Insert the installation CD and install the software.
-* If USB to RS 232 adapter is required, follow the following installation procedure
- * Attach provided USB to RS 232 adapter to a USB outlet on PC
- * A message will appear “Found new hardware…”
- * You will be prompted to install the suitable driver
- * Insert provided installation CD for driver
- * The installation will automatically select the correct driver form the CD
+1. Connect the provided communication cable to the Endo-PAT Communication port
+2. Hand tighten the screws
+3. Connect the communication cable to the PC via RS 232 port if available
+4. Insert the installation CD and install the software.
+
+* If USB to RS 232 adapter is required, follow the following installation procedure:
+
+ * 1. Attach provided USB to RS 232 adapter to a USB outlet on PC
+ * 2. A message will appear “Found new hardware…”
+ * 3. You will be prompted to install the suitable driver
+ * 4. Insert provided installation CD for driver
+ * 5. The installation will automatically select the correct driver form the CD
 
 
 <div class="center">
