@@ -3,7 +3,7 @@
 A total of approximately 40 mL of blood will be drawn from each participant in 5 tubes.  Blood collection must be drawn in the following order:
 
 | Draw Order | Tube         | Cap Color     |
-|:-----------|:------------:|:-------------:| 
+|:----------:|:-------------|:--------------| 
 | 1          | 10 mL  Serum | Red Top       |
 | 2          | 5 mL Citrate | Blue Top      |
 | 3          | 10 mL EDTA   | Purple Top    |
