@@ -30,9 +30,9 @@ line.
     5.4 Limb Lead Electrode Placement
   </a>
 
-  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Electrocardiogram
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-05-02-00-horizontal-reference.md" class="btn btn-success">

@@ -2,7 +2,7 @@
 
 **The following supplies are recommended:**
 
- * 5 mL SCAT-1 tubes (must be stored refrigerated until used) 
+ * 5 mL SCAT-1 tubes (must be stored refrigerated until used)
  * Cryovials – 0.5mL, 1.5 mL and 4.0 mL, and 10.0 mL with olored caps for color-coding
  * <u>Sarstedt 4.0 mL cryovial</u> (for clinical tests):  Catalog # 62.611
  * Krackler 10.0 mL cryovials for packed cells and urine samples:  Catalog # 229-T310-10A (These are white caps that can be colored in with a red, green or yellow permanent marker instead of purchasing the below colored caps.)
@@ -27,7 +27,7 @@
  * Washcloths/Towels
  * Smelling salts
  * Plastic cart with wheels for phlebotomy supplies (or plastic tray with compartments)
- * Butterfly needles (21 G) with luer adapter (Butterfly with safety needle 21G ¾ x 12, 
+ * Butterfly needles (21 G) with luer adapter (Butterfly with safety needle 21G ¾ x 12,
 B-D Vacutainer 367281)
  * Vacutainer barrels
  * Tourniquets
@@ -44,12 +44,12 @@ B-D Vacutainer 367281)
  * Ice bucket and crushed ice - filled 10 min before draw
  * Stopwatches or timers
  * Blood collection tubes for AM draw (keep extras on hand):
-	 * 1 – 10 mL Serum tubes (B-D 367820)  
-	 * 1 – 10 mL EDTA tubes (B-D 366457)  
+	 * 1 – 10 mL Serum tubes (B-D 367820)
+	 * 1 – 10 mL EDTA tubes (B-D 366457)
 	 * 1 – 5 mL Citrate tubes (B-D 366415)
-	 * 1 - 5 mL SCAT-1 tubes	
+	 * 1 - 5 mL SCAT-1 tubes
 	 * 1 – 8ml CPT tube B-D 362753 (heparinized plasma) (see Appendix A for protocol and processing)
- * Hemoguard caps on the Serum, EDTA and Citrate tubes can be used if desired.   
+ * Hemoguard caps on the Serum, EDTA and Citrate tubes can be used if desired.
 
 **The blood processing area should have the following additional supplies and equipment:**
 
@@ -58,7 +58,7 @@ B-D Vacutainer 367281)
  * 10% bleach solution or approved biohazard disinfectant
  * Refrigerated centrifuge (4°C) capable of spinning at a minimum of 2000 x g
  * -70°C freezer (or colder) or -20°C freezer and dry ice
- * Refrigerator 
+ * Refrigerator
 
 
 <div class="center">
@@ -68,9 +68,9 @@ B-D Vacutainer 367281)
     4.1.1 Background and Rationale
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-01-03-safety-issues-and-precautions.md" class="btn btn-success">

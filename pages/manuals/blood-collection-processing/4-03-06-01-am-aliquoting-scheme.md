@@ -27,14 +27,14 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-centrifugation-edta-etc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-00-centrifugation-edta-etc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     4.3.6 Centrifugation - EDTA, SCAT-1, and Citrate Tubes
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-03-06-02-am-draw.md" class="btn btn-success">

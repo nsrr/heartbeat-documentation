@@ -19,9 +19,9 @@ Setup” line and press return (↵).
     5.6.4 Patient Data Setup
   </a>
 
-  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Electrocardiogram
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-07-obtain-ecg.md" class="btn btn-success">

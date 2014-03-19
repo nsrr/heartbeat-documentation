@@ -1,6 +1,6 @@
 ## 4.2.4.7 Phlebotomy Form Questions
 
-There are three questions to ask the participant before the start of venipuncture. These questions deal with the participant’s experience with venipuncture.  If they answer yes to any of these three questions, the phlebotomist can take extra care with the procedure at the first and subsequent draws.  
+There are three questions to ask the participant before the start of venipuncture. These questions deal with the participant’s experience with venipuncture.  If they answer yes to any of these three questions, the phlebotomist can take extra care with the procedure at the first and subsequent draws.
 
 
 <div class="center">
@@ -10,9 +10,9 @@ There are three questions to ask the participant before the start of venipunctur
     4.2.4.6 Preparation for Specimen Collection
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-02-05-venipuncture-procedure.md" class="btn btn-success">

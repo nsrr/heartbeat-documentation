@@ -31,9 +31,9 @@ reads: Numbers/letters and others. Highlight “Numbers/letters” and press ret
     5.6.3 Configuring the 12 Lead-Tracing Menu
   </a>
 
-  <a href=":pages_path:/manuals/ecg" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Electrocardiogram
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/ecg/5-06-05-setup-tech-id.md" class="btn btn-success">

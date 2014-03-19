@@ -2,7 +2,7 @@
 
 <u>Instructions for Participants:</u>
 
-The participant’s privacy should be assured. 
+The participant’s privacy should be assured.
 The following steps should be followed;
 
 1.	Wash hands before and after voiding.
@@ -21,9 +21,9 @@ The Urine Collection/Processing Form must be labeled with the participant ID num
     4.4.2 Preparation of Participants for Urine Collection
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-04-04-urine-processing.md" class="btn btn-success">

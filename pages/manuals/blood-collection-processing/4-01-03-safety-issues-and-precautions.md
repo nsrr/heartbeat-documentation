@@ -16,9 +16,9 @@ In accordance with the OSHA regulations on blood borne pathogens, the LCBR recom
     4.1.2 Equipment and Supplies
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/4-01-04-ppt-id-labels.md" class="btn btn-success">
