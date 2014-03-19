@@ -10,9 +10,9 @@ Obtain 4-7 days of recording
     8.1 Purpose
   </a>
 
-  <a href=":pages_path:/manuals/pap-encore-anywhere" class="btn btn-default">
+  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    PAP and Encore Anywhere
+    Table of Contents - Manuals
   </a>
 
   <a href=":pages_path:/manuals/pap-encore-anywhere/8-03-procedure.md" class="btn btn-success">

@@ -9,14 +9,14 @@ Quality control will be achieved by central training and certification of all te
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/ambulatory-blood-pressure/7-05-ambp-data-qc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure/ambulatory-blood-pressure" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     7.5 AMBP Data Quality Control
   </a>
 
   <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    24-Hour Ambulatory Blood Pressure
   </a>
 </div>
 </div>

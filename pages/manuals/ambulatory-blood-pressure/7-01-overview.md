@@ -24,9 +24,9 @@ diastolic and mean BP expressed as a percentage of awake measurement.
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/ambulatory-blood-pressure" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    24-Hour Ambulatory Blood Pressure
   </a>
 
   <a href=":pages_path:/manuals/ambulatory-blood-pressure/7-02-equipment.md" class="btn btn-success">
