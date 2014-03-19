@@ -43,9 +43,9 @@ Neck size is determined with a non-stretchable cloth measuring tape to the neare
     6.7 Subject Preparation
   </a>
 
-  <a href=":pages_path:/manuals/manual-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthropometry" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Table of Contents - Manuals
+    Anthropometry
   </a>
 </div>
 </div>
