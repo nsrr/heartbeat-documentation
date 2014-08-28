@@ -1,6 +1,6 @@
 # About the Study
 
-The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) is a Phase II randomized controlled trial, 4 center trial that evaluates the effects of supplemental nocturnal oxygen or Positive Airway Pressure (PAP) therapy, compared to optimal medical preventive therapy, over a 3 month intervention period in patients with cardiovascular disease (CVD) or CVD risk factors and moderate to severe obstructive sleep apnea (Apnea-Hypopnea Index 15 to 50). The study’s primary outcome is 24 hour blood pressure profile.
+The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) is a Phase II randomized controlled trial, 4 center trial that evaluates the effects of supplemental nocturnal oxygen or Positive Airway Pressure (PAP) therapy, compared to optimal medical preventive therapy, over a 3 month intervention period in patients with cardiovascular disease (CVD) or CVD risk factors and moderate to severe obstructive sleep apnea (Apnea-Hypopnea Index 15 to 50). The study's primary outcome is 24 hour blood pressure profile.
 
 Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicaltrials.gov/show/NCT01086800).
 
@@ -17,6 +17,7 @@ Coming September 1, 2014.
 ## Protocols and Manuals
 
 - [HeartBEAT Manual of Procedures](:pages_path:/manuals/manuals-toc.md)
+- [HeartBEAT Forms](:files_path:/forms)
 
 ## Recent Changes
 
