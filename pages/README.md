@@ -12,7 +12,9 @@ When citing this dataset please use:
 
 ## Dataset Download
 
-Coming September 1, 2014.
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 1.7 MB
+
+Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
 ## Protocols and Manuals
 
