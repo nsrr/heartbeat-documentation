@@ -13,6 +13,7 @@ NOTE: CA is scored irregardless of desaturation
 EXCLUDE: CA events that are post movement or post sigh (follows >= 150% of baseline effort) unless these are part of a series in which case scoring begins with the second event.
 
 **Hypopnea (H) must be associated with a 3% desaturation** and characterized by either:
+
 * 50% reduction in a Nasal cannula or the respiratory SUM channel + 3%
 * 50% reduction in either belt + 3%
 * Discernable reduction or switch to paradox in a "reliable" airflow signal or either effort channels + 3% desat
@@ -35,9 +36,11 @@ Clarification of amplitude threshold relative to baseline:  If one non-artifactu
 Contiguous respiratory events that have a single respiratory effort in the middle of two periods of absent efforts, each <6 seconds, <u>AND</u> that are associated with a 3% or greater desaturation should be combined into a single Hypopnea event.  
 
 **Nasal Flow Limitation**
+
 Nasal flow limitation is derived from the nasal cannula signal. A normal flow signal will present as a regular sinus rhythm and curve.  Flow limitation may occur with increase upper airway resistance, not sufficient enough to cause discrete apneas and hypopneas. A regular sinus curve will transform into a signal that resembles a lowercase ‘H.” 
 
 **Desaturation (D)** events
+
 Isolated desaturation (non-artifact-related) that are unassociated with either apneas or hypopnea, 	but which have a clear beginning and end should be marked as **Desaturation (D)** events if they 	include a 3% or great decrement in pOx tracing from a stable baseline.  Prolonged events (>= 30 seconds) without a clear beginning or end should be deleted.  
 
 ## Summary of Scoring Process
@@ -66,9 +69,13 @@ During 12 week treatment pass:
 **Exclusion criteria during Embletta Screening**
 
 1) Severe OSA defined by 
+	
 	a)  nocturnal oxygen saturation < 85% for > 10% of the record or 
+	
 	b) AHI < 15 or > 50
+
 2) Central sleep apnea index > 5
+
 Those with markedly severe OSA (AHI >50; estimated prevalence 2-3%), will be excluded due 	to the severity of the physiological abnormality
 
 <div class="center">
