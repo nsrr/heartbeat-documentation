@@ -12,3 +12,4 @@
 * [10. Portable Sleep Monitoring](:pages_path:/manuals/portable-sleep-monitoring)
 * [11. MIMI Users Guide](:pages_path:/manuals/mimi-users-guide)
 * [12. Expected Adverse Events](:pages_path:/manuals/mild-expected-ae)
+* [13. Embletta Scoring Procedures](:pages_path:/manuals/embletta-scoring-procedures)
