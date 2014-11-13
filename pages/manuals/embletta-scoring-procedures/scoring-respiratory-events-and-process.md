@@ -32,7 +32,7 @@ Determining whether an event is central or obstructive in areas of periodic brea
 
 Clarification of amplitude threshold relative to baseline:  If one non-artifactual deflection is less than 25% of baseline breathing, then it is a central.  If two deflections are less than 25% of baseline breathing providing airflow flat, then it is obstructive. Flat excludes cardiogenic oscillation. If airflow reliable and not flat or airflow unreliable, then default to hypopnea if the hypopnea is associated with ≥3% desaturation.
 
-Contiguous respiratory events that have a single respiratory effort in the middle of two periods of absent efforts, each <6 seconds, AND that are associated with a 3% or greater desaturation should be combined into a single Hypopnea event.  <u>AND</u>
+Contiguous respiratory events that have a single respiratory effort in the middle of two periods of absent efforts, each <6 seconds, <u>AND</u> that are associated with a 3% or greater desaturation should be combined into a single Hypopnea event.  
 
 **Nasal Flow Limitation**
 Nasal flow limitation is derived from the nasal cannula signal. A normal flow signal will present as a regular sinus rhythm and curve.  Flow limitation may occur with increase upper airway resistance, not sufficient enough to cause discrete apneas and hypopneas. A regular sinus curve will transform into a signal that resembles a lowercase ‘H.” 
@@ -45,22 +45,26 @@ Isolated desaturation (non-artifact-related) that are unassociated with either a
 Each study will be manually scored in the two passes:  
 
 During the first pass:
+
 * Review the channels and manually set time of “analysis start” and “analysis stop.”
 * The Respiratory signals from each study will be reviewed on a 2-5 minute basis (screen).  
 * The saturation channel will be edited for artifact and respiratory events will be marked manually according to the rules stated above using all signals.
 * ECG is manually reviewed for any irregularities.
 
 During second pass:
+
 * Respiratory data (abdominal/chest/saturation) will be reviewed on 5 minute pages.  The saturation channel will be edited for artifact and respiratory events will be marked manually according to the rules stated above using only Respiratory belts.
 * Obstructive will be reclassified to either a Hypopnea or a Mixed Apnea (mixed apnea tag is chosen for report purposes only)
 * “Mixed Apnea” is marked for any events that have a 50% reduction in either belt or sum with < 3% desaturation.
 
 During 12 week treatment pass:
+
 * Respiratory data (abdominal/chest/saturation) will be reviewed on 5 minute pages.  The saturation channel will be edited for artifact and respiratory events will be marked manually according to the rules stated above using only Respiratory belts.
 * Obstructive events will not be scored. Studies are collected without flow signals.
 * Hypopnea, Central Apnea, and a “Mixed Apnea” will be scored using the same rules above.
 
 **Exclusion criteria during Embletta Screening**
+
 1) Severe OSA defined by 
 	a)  nocturnal oxygen saturation < 85% for > 10% of the record or 
 	b) AHI < 15 or > 50
