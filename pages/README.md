@@ -21,6 +21,9 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 - [HeartBEAT Manual of Procedures](:pages_path:/manuals/manuals-toc.md)
 - [HeartBEAT Forms](:files_path:/forms)
 
+## Equipment
+- [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
