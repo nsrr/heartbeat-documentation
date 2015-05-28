@@ -14,4 +14,4 @@ The settings below represent the standards set at the beginning of the project. 
 | Position  |   10                 | None applied            | Embla internal X-Y gravity |
 | EKG       |  200                 | None applied            | Ag/AgCl patch              |
 
-For more information please refer to [Portable Sleep Monitoring](https://sleepdata.org/datasets/heartbeat/pages/manuals/portable-sleep-monitoring)
+For more information please refer to [Portable Sleep Monitoring](:pages_path:/manuals/portable-sleep-monitoring)
