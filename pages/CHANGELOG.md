@@ -1,3 +1,7 @@
+### July 31, 2015
+
+- Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output
+
 ### August 29, 2014
 
 - Added link to [datasets](:files_path:/datasets) with the release of v0.2.0
