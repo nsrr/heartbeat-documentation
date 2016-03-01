@@ -2,7 +2,7 @@
 
 ### 4.4.1 Supplies
 
-The following supplies should be stocked in the patient’s room urine collection:
+The following supplies should be stocked in the patient’s room for urine collection:
 
  * Antiseptic wipes
  * Sterile specimen container
