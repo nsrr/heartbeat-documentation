@@ -1,6 +1,6 @@
 ## 7.4 Placement of AMBP Cuff
 
-The cuff should be placed on the participant’s non-dominant arm and in the correct position. The arrow should point to mid point of antecubital fossa (or “inside elbow”). Measure 1” (2 finger breaths) above the crease in the antecubital fossa of the child’s non-dominant arm (suggest marking the participant’s arm – this may be helpful to the participant if the cuff is released during the 24 hour period and has to be replaced). Make sure the cuff is snug enough that it will not slide but not too tight (if no more that 2 finger breaths can slide under the cuff than it is not too tight or too loose).
+The cuff should be placed on the participant’s non-dominant arm and in the correct position. The arrow should point to mid point of antecubital fossa (or “inside elbow”). Measure 1” (2 finger breaths) above the crease in the antecubital fossa of the participant's non-dominant arm (suggest marking the participant’s arm – this may be helpful to the participant if the cuff is released during the 24 hour period and has to be replaced). Make sure the cuff is snug enough that it will not slide but not too tight (if no more that 2 finger breaths can slide under the cuff than it is not too tight or too loose).
 
 ### 7.4.1 Participant
 
