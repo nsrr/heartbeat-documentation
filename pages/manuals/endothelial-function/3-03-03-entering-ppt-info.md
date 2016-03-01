@@ -24,7 +24,7 @@
           <li>Under <b>Patient Name</b>, enter Name Code (first 2 characters of first and last name)</li>
           <li>Enter age, sex, diastolic blood pressure in labeled boxes</li>
           <li>Enter Baseline or Final Visit in the comments section</li>
-          <li>Under <b>Sonographer</b>, enter Staff ID</li>
+          <li>Under <b>PATographer</b>, enter Staff ID</li>
         </ul>
 
         <b>Never enter identifying information. Double check information entered.  Once you click OK, information can not be edited.</b>  Click OK to save.
