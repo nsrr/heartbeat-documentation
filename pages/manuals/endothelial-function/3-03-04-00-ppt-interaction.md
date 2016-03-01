@@ -2,7 +2,7 @@
 
 <ol start="5">
   <li>
-    Greet participant and ask PAT questions (see Peripheral Arterial Tone (PAT) Script)<br />
+    Greet participant and ask PAT questions (see Peripheral Arterial Tone (PAT) Script).<br />
     Explain test to participant and explaining that we can stop the test at any time.
   </li>
   <li>
