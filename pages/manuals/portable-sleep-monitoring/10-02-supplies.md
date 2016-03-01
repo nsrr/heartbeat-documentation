@@ -25,7 +25,7 @@ All supplies can be ordered through Embla: http://www.shopembla.com/
 
 ### 10.2.3 ECG Pads
 
-**<u>Disposable Electrodes LM/EKG Wet Gel</u>**\
+**<u>Disposable Electrodes LM/EKG Wet Gel</u>**
 
 **REF:** 1410505
 
