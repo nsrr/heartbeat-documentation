@@ -48,7 +48,7 @@ B-D Vacutainer 367281)
 	 * 1 – 10 mL EDTA tubes (B-D 366457)
 	 * 1 – 5 mL Citrate tubes (B-D 366415)
 	 * 1 - 5 mL SCAT-1 tubes
-	 * 1 – 8ml CPT tube B-D 362753 (heparinized plasma) (see Appendix A for protocol and processing)
+	 * 1 – 8mL CPT tube B-D 362753 (heparinized plasma) (see Appendix A for protocol and processing)
  * Hemoguard caps on the Serum, EDTA and Citrate tubes can be used if desired.
 
 **The blood processing area should have the following additional supplies and equipment:**
