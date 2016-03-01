@@ -38,7 +38,7 @@ B-D Vacutainer 367281)
  * Blood tube racks
  * Scissors
  * Pens
- * Labels and Phlebotomy Form]
+ * Labels and Phlebotomy Form*
  * Biohazardous waste container
  * Needle/sharps container
  * Ice bucket and crushed ice - filled 10 min before draw
@@ -60,6 +60,7 @@ B-D Vacutainer 367281)
  * -70°C freezer (or colder) or -20°C freezer and dry ice
  * Refrigerator
 
+*Provided by the LCBR
 
 <div class="center">
 <div class="btn-group">
