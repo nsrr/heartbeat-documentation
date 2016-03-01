@@ -3,7 +3,7 @@
 Study visits and phone contacts should be completed within the designated timeframes. The
 Baseline Visit is considered day 0 and all time windows should be counted from this day (not
 from the immediately preceding visit/phone contact because this could cause timeframes to get
-very off schedule!) Please note that for patients randomized to PAP, the 12 week treatment
+very off schedule). Please note that for patients randomized to PAP, the 12 week treatment
 period begins when participant pressure has been set; therefore, counting of their time window
 for the week 1 contact and remaining contacts/visits are based on that day. (The SDCC Reading Center indicates pressure setting and projected week 1 phone contact date in an email sent to sites.)
 
@@ -17,7 +17,7 @@ due to extenuating reasons. In all cases, documentation is important. If you are
 schedule visits and contacts without success, please document the times, dates, and make
 notes about your attempts to attach to the deviation form. If a participant misses visits and staff
 has to reschedule, staff should document the effort they are putting forth in trying to keep within
-time windows.  
+time windows.
 
 
 <div class="center">
