@@ -5,7 +5,7 @@ After each test and before transmitting to the DCC:
 1. Check the study quality.
 2. Click the “Open file.”
 3. Select the appropriate study. It will open.
-4. Select “Automatic Analysis. The study will open with the occluded area highlighted.
+4. Select “Automatic Analysis". The study will open with the occluded area highlighted.
 5. Click on Test Analysis Icon at top of screen
 6. Click on View Report.  By clicking on View Report, the report will automatically be saved in Rich Text Format (RTF).
 7. Print this report for the participant’s Case Report Form binder.
