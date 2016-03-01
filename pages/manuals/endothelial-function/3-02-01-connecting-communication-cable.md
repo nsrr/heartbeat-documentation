@@ -12,7 +12,7 @@
  * 2. A message will appear “Found new hardware…”
  * 3. You will be prompted to install the suitable driver
  * 4. Insert provided installation CD for driver
- * 5. The installation will automatically select the correct driver form the CD
+ * 5. The installation will automatically select the correct driver from the CD
 
 
 <div class="center">
