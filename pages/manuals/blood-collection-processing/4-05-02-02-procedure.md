@@ -9,8 +9,8 @@ For <u>frozen</u> shipment to the LCBR at the University of Vermont:
 5. Place a rubber band around each cardboard freezer box containing samples before enclosing each box in a ziplock plastic bag. Then carefully place these bagged boxes containing samples in the mailer. The rubber band is important for aiding in the prevention of a cryovial spill; the ziplock bag and absorbent material are for compliance with commercial carrier specifications.
 6. Another layer of absorbent material is placed on top of the sample freezer boxes.
 7. The remaining dry ice is placed on top of this last layer of absorbent material.
-8. The top of the styro is sealed on with tape, and then enclosed in the outer cardboard sleeve.
-9. The Processing and Collection Forms for all samples included in that particular styrofoam mailer, are placed on the top of the styro before the outer sleeve is securely taped closed.
+8. The top of the styrofoam is sealed on with tape, and then enclosed in the outer cardboard sleeve.
+9. The Processing and Collection Forms for all samples included in that particular styrofoam mailer, are placed on the top of the styrofoam before the outer sleeve is securely taped closed.
 10.	Affix shipping label(s).  Place the entire box in the refrigerator if pickup is not immediate. (Samples should not be on dry ice for > 24 hours).
 11. Affix shipping labels (Fed Ex label, Biological Specimen Category B UN3373 label, Dry Ice Class 9 UN1845 label, and Keep Frozen label) to outside of shipping container.
 
