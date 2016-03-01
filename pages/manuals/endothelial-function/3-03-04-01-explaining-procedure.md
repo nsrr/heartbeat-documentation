@@ -18,11 +18,11 @@ blood flow and compare that to the finger of a hand where a blood pressure cuff 
 not placed on the arm.</li>
      <li>Note that the occlusion is harmless but may be uncomfortable</li>
      <li>Some markings on the skin from the BP cuff are possible but harmless and will
-pass with time</li>
+pass with time.</li>
      <li>Strange sensations (such as tingling in your fingers) during and after the occlusion
-are common and transient</li>
+are common and transient.</li>
      <li>Instruct the subject that throughout the test he/she should <u>refrain from talking</u>, except
-in an emergency</li>
+in an emergency.</li>
      <li>Ask the participant to relax and not to stretch or move the fingers during testing and
 to keep fingers from touching each other and not touching anything.</li>
      <li><u>The test is not over when the occluding cuff is deflated and the subject should not

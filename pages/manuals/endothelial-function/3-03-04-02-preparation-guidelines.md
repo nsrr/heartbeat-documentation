@@ -4,14 +4,14 @@
 
 * Before starting the test, ask the subject if he needs to use the restroom.
 * Loosen or remove any clothing with tight fitting sleeves and remove any heavy
-clothing
-* Ask the subject to lay down on his back in a comfortable position
+clothing.
+* Ask the subject to lay down on his back in a comfortable position.
 * Identify the best finger on each hand for testing-use the index fingers when possible.
 Avoid fingers with clear deformities. Use the same finger on each hand. Any finger
 can be used other than the thumb.
 * Ensure that fingernails on the fingers to be tested are short and trim if they protrude
-more than 1/6 inch (4 mm from the tip of the finger)
-* Have the participant remove all jewelry, watches, etc. and place in a secure location
+more than 1/6 inch (4 mm from the tip of the finger).
+* Have the participant remove all jewelry, watches, etc. and place in a secure location.
 
 
 <div class="center">
