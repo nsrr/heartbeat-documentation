@@ -6,7 +6,7 @@ participate or staff.
 the green GO button at the top of the screen next to the standby button to begin monitoring the
 volume of the pulse pressure. See sample tracing for good tracing. A recording signal icon
 should appear pointing to the hard drive.
-3. Set timer to record for 5 minutes.If leaks or problems
+3. Set timer to record for 5 minutes. If leaks or problems
 occur, stop, replace probes and start over.
 
 
