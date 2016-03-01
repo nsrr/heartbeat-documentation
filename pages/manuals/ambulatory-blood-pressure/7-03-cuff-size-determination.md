@@ -1,6 +1,6 @@
 ## 7.3 Cuff Size Determination
 
-It is important to use the appropriate cuff size to ensure accuracy and prevent false readings. Proper cuff size for will be determined by measuring the circumference of the participant’s upper arm, measured at the midpoint, and identifying the appropriate bladder size from a standard chart.  If the measurement falls between sizes it is better to use a larger sized cuff (smaller cuff gives false high values). Use only Spacelabs Medical cuffs with this monitor. Using other manufacturer’s cuffs may result in inaccurate readings even if the manufacturer’s recommended size is observed. You may refer to the arm circumference measurements made earlier in the day for the simple BP reading.
+It is important to use the appropriate cuff size to ensure accuracy and prevent false readings. Proper cuff size will be determined by measuring the circumference of the participant’s upper arm, measured at the midpoint, and identifying the appropriate bladder size from a standard chart.  If the measurement falls between sizes it is better to use a larger sized cuff (smaller cuff gives false high values). Use only Spacelabs Medical cuffs with this monitor. Using other manufacturer’s cuffs may result in inaccurate readings even if the manufacturer’s recommended size is observed. You may refer to the arm circumference measurements made earlier in the day for the simple BP reading.
 
 | Cuff Size         | Limb Circumference |
 |:-----------------:|:------------------:|
