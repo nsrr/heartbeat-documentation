@@ -1,7 +1,7 @@
 ## 3.3.5 Procedures During Testing.
 
 1. Switch on the Hokanson blood pressure machines
-2. Set inflation level to 250mm/HG
+2. Set inflation level to 250 mmg Hg
 3. Press OK on the laptop to record participant information
   <div class="center">
     <img src=":images_path:/endf-08.png">
