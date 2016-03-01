@@ -1,6 +1,6 @@
 ## 5.3.1 Preparing the Participant
 
-The ECG requires that the participant remove all clothing above the waist. The HeartBEAT ECGs will be taken in a supine or semi-recumbent position (according to participant comfort).  The participant’s safety is imperative. The ECG technician needs to be attentive to special disabilities that may cause serious injuries especially for the elderly (hip fractures, etc.)
+The ECG requires that the participant remove all clothing above the waist. The HeartBEAT ECGs will be taken in a supine or semi-recumbent position (according to participant comfort).  The participant’s safety is imperative. The ECG technician needs to be attentive to special disabilities that may cause serious injuries especially for the elderly (hip fractures, etc.).
 
 * The location for ECG recording must be stable and properly supported (i.e., bed). A reclining chair can be used for the ECG if necessary.
 
