@@ -14,8 +14,8 @@ EXCLUDE: CA events that are post movement or post sigh (follows >= 150% of basel
 
 **Hypopnea (H) must be associated with a 3% desaturation** and characterized by either:
 
-* 50% reduction in a Nasal cannula or the respiratory SUM channel + 3%
-* 50% reduction in either belt + 3%
+* 50% reduction in a Nasal cannula or the respiratory SUM channel + 3% desat
+* 50% reduction in either belt + 3% desat
 * Discernable reduction or switch to paradox in a "reliable" airflow signal or either effort channels + 3% desat
 * When the airflow signal is unreliable ("choppy"), then obstructive events cannot be reliable scored. Then, they can be scored as hypopneas if they meet criteria.
 
