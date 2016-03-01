@@ -3,7 +3,7 @@
 **The following supplies are recommended:**
 
  * 5 mL SCAT-1 tubes (must be stored refrigerated until used)
- * Cryovials – 0.5mL, 1.5 mL and 4.0 mL, and 10.0 mL with olored caps for color-coding
+ * Cryovials – 0.5mL, 1.5 mL and 4.0 mL, and 10.0 mL with colored caps for color-coding
  * <u>Sarstedt 4.0 mL cryovial</u> (for clinical tests):  Catalog # 62.611
  * Krackler 10.0 mL cryovials for packed cells and urine samples:  Catalog # 229-T310-10A (These are white caps that can be colored in with a red, green or yellow permanent marker instead of purchasing the below colored caps.)
    * Cap Inserts for Color Coding:
