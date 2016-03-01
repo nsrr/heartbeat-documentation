@@ -15,7 +15,7 @@ The coordinator may want to inform the participant that he/she may feel:
 
 ### 7.4.3 Research Coordinator
 
-The research coordinator will be responsible for programming and calibrating (or initializing) the AMBP, instructing the participant on its proper use, distribution the diary and instruction sheet and recording the equipment on the Device Accountability Log. Also arrangements must be made for return of the equipment and completed diary prior to leaving the facility. A prepaid shipping container may be provided for this purpose if other arrangements (courier service) have not been made.
+The research coordinator will be responsible for programming and calibrating (or initializing) the AMBP, instructing the participant on its proper use, distribution of the diary and instruction sheet and recording the equipment on the Device Accountability Log. Also arrangements must be made for return of the equipment and completed diary prior to leaving the facility. A prepaid shipping container may be provided for this purpose if other arrangements (courier service) have not been made.
 
 
 <div class="center">
