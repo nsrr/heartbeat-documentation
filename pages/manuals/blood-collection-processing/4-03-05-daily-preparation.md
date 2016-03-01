@@ -19,7 +19,7 @@ The following items should be on hand before beginning processing:
 * Styrofoam/insulated shipping boxes
 * Refrigerator- for storage of special blood tubes
 
-   **NOTE: Can be a household fridge. Cannot be the same as food fridge.**
+   **NOTE: Can be a household fridge. Cannot be the same as food fridge, such as a fridge break room used for food storage.**
 
 * Reagent bottles/containers for daily use
 * Labels/lab tape for reagents
