@@ -10,7 +10,7 @@ signal for 1 to 2 minutes.
 Probe 1 or 2 on the screen.
 6. Make sure there are no leaks for one minute.
 
-**Note**:  Sometimes a complete occlusion on certain patients cannot be achieved.  If continued pulsations are observed, then inflate another 50 mm Hg to 250 and if continued pulsations, then to a maximum of 300 m Hg.  Sometimes, when the level of the incomplete occlusion is significant it will be written in the this column- “WARNING-incomplete occlusion”.
+**Note**:  Sometimes a complete occlusion on certain patients cannot be achieved.  If continued pulsations are observed, then inflate another 50 mm Hg to 250 and if continued pulsations, then to a maximum of 300 mm Hg.  Sometimes, when the level of the incomplete occlusion is significant it will be written in the this column- “WARNING-incomplete occlusion”.
 
 <div class="center">
 <div class="btn-group">
