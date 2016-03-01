@@ -18,7 +18,7 @@
 | 14        | SCAT-1       | 0.5            | Yellow | 0.5               |
 | 15        | SCAT-1       | 0.5            | Yellow | 0.5               |
 | 16        | SCAT-1       | 0.5            | Yellow | 0.5               |
-| 17        | Packed Cells | 0.5            | Red    | 9.0               |
+| 17        | Packed Cells | 1.0            | Red    | 9.0               |
 | 18        | CPT (plasma) | 1.5            | Green  | 1.0               |
 | 19        | CPT (plasma) | 1.5            | Green  | 1.0               |
 | 20        | CPT (cells)  | 0.5            | Clear  | 0.5               |
