@@ -14,7 +14,7 @@ that day.
 
 **Disconnecting the PAT Probes**
 
-1. Press down on the tab of the probe that protrudes through the
+1. Press down on the tab of the probe that protrudes through the connector.
   <div class="center">
     <img src=":images_path:/endf-11.png">
   </div>
