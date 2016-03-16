@@ -1,3 +1,7 @@
+### March 16, 2016
+
+- Release of dataset version 0.3.0. Read the [CHANGELOG here](https://github.com/sleepepi/heartbeat-data-dictionary/blob/master/CHANGELOG.md).
+
 ### July 31, 2015
 
 - Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output
