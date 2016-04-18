@@ -8,7 +8,7 @@ Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicalt
 
 When citing this dataset please use:
 
-> Redline, S., et al. "HeartBEAT Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/heartbeat.
+1. Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep*. Advance online publication. pii: sp-00021-15
 
 ## Dataset Download
 
