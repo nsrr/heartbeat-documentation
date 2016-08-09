@@ -8,8 +8,8 @@ Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicalt
 
 When citing this dataset please use:
 
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164.](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-2. [Gottlieb, D. J., Punjabi, N. M., Mehra, R., Patel, S. R., Quan, S. F., Babineau, D. C., Tracy, R. P., Rueschman, M., Blumenthal, R. S., Lewis, E. F., Bhatt, D. L., & Redline, S. (2014). CPAP versus oxygen in obstructive sleep apnea. The New England journal of medicine, 24, 2276–2285.](http://www.ncbi.nlm.nih.gov/pubmed/24918372)
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164.](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Gottlieb, D. J., Punjabi, N. M., Mehra, R., Patel, S. R., Quan, S. F., Babineau, D. C., Tracy, R. P., Rueschman, M., Blumenthal, R. S., Lewis, E. F., Bhatt, D. L., & Redline, S. (2014). CPAP versus oxygen in obstructive sleep apnea. *The New England journal of medicine, 24,* 2276–2285.](http://www.ncbi.nlm.nih.gov/pubmed/24918372)
 
 ## Dataset Download
 
