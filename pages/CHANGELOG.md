@@ -1,3 +1,7 @@
+### August 9, 2016
+
+- Update citation list to include primary HeartBEAT paper (NEJM)
+
 ### May 19, 2016
 
 - Update citations for users of the dataset
