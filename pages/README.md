@@ -4,13 +4,6 @@ The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) is a multi-center 
 
 Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicaltrials.gov/show/NCT01086800).
 
-## Citation
-
-When citing this dataset please use:
-
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164.](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-2. [Gottlieb, D. J., Punjabi, N. M., Mehra, R., Patel, S. R., Quan, S. F., Babineau, D. C., Tracy, R. P., Rueschman, M., Blumenthal, R. S., Lewis, E. F., Bhatt, D. L., & Redline, S. (2014). CPAP versus oxygen in obstructive sleep apnea. *The New England journal of medicine, 24,* 2276–2285.](http://www.ncbi.nlm.nih.gov/pubmed/24918372)
-
 ## Dataset Download
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 1.7 MB
@@ -28,3 +21,10 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+
+## Citation
+
+When citing this dataset please use:
+
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164.](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Gottlieb, D. J., Punjabi, N. M., Mehra, R., Patel, S. R., Quan, S. F., Babineau, D. C., Tracy, R. P., Rueschman, M., Blumenthal, R. S., Lewis, E. F., Bhatt, D. L., & Redline, S. (2014). CPAP versus oxygen in obstructive sleep apnea. *The New England journal of medicine, 24,* 2276–2285.](http://www.ncbi.nlm.nih.gov/pubmed/24918372)
