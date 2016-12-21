@@ -1,3 +1,7 @@
+### December 21, 2016
+
+- Add polysomnography introduction, with notes about known issues
+
 ### August 9, 2016
 
 - Update citation list to include primary HeartBEAT paper (NEJM)
