@@ -6,9 +6,9 @@ Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicalt
 
 ## Dataset Download
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 1.7 MB
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the baseline and followup visits
 
-Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data using the Embletta Gold device
 
 ## Protocols and Manuals
 
