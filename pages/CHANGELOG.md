@@ -1,3 +1,7 @@
+### June 7, 2017
+
+- Add notes about XML annotations to PSG introduction
+
 ### December 21, 2016
 
 - Add polysomnography introduction, with notes about known issues
