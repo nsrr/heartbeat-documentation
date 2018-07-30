@@ -1,3 +1,7 @@
+### July 30, 2018
+
+- Add blurb about using forms on dataset introduction
+
 ### June 7, 2017
 
 - Add notes about XML annotations to PSG introduction

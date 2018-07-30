@@ -16,4 +16,12 @@ Each HeartBEAT subject was randomized to one of three treatment arms. The assign
 2. HLSE-O (Healthy Lifestyles and Sleep Education + (supplemental nocturnal) Oxygen - oxygen arm)
 3. HLSE-P (Healthy Lifestyles and Sleep Education + Positive airway pressure treatment - CPAP arm)
 
-If you have additional questions about the HeartBEAT dataset, please contact <a href="mailto:support@sleepdata.org">support@sleepdata.org</a>.
+## Data collection forms
+
+The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](:datasets_path:/chat/variables) to give users a better idea about the origins of the underlying data.
+
+The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
