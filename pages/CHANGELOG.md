@@ -24,7 +24,7 @@
 
 ### March 16, 2016
 
-- Release of dataset version 0.3.0. Read the [CHANGELOG here](https://github.com/sleepepi/heartbeat-data-dictionary/blob/master/CHANGELOG.md).
+- Release of dataset version 0.3.0. Read the [CHANGELOG here](https://github.com/nsrr/heartbeat-data-dictionary/blob/master/CHANGELOG.md).
 
 ### July 31, 2015
 
