@@ -1,16 +1,16 @@
-# About the Study
+# About
 
 The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) is a multi-center Phase II randomized controlled trial that evaluates the effects of supplemental nocturnal oxygen or Positive Airway Pressure (PAP) therapy, compared to optimal medical preventive therapy, over a 3 month intervention period in patients with cardiovascular disease (CVD) or CVD risk factors and moderate to severe obstructive sleep apnea (Apnea-Hypopnea Index 15 to 50). The study's primary outcome is 24 hour blood pressure profile.
 
 Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicaltrials.gov/show/NCT01086800).
 
-## Dataset Download
+## Dataset download
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the baseline and followup visits
 
 **[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data using the Embletta Gold device
 
-## Protocols and Manuals
+## Protocols and manuals
 
 - [HeartBEAT Manual of Procedures](:pages_path:/manuals/manuals-toc.md)
 - [HeartBEAT Forms](:files_path:/forms)
@@ -18,7 +18,7 @@ Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicalt
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
 
-## Recent Changes
+## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 
