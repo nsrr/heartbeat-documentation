@@ -1,3 +1,7 @@
+### June 12, 2020
+
+- Update suggested citation and acknowledgement language
+
 ### July 30, 2018
 
 - Add blurb about using forms on dataset introduction

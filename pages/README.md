@@ -4,6 +4,18 @@ The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) is a multi-center 
 
 Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicaltrials.gov/show/NCT01086800).
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Gottlieb DJ, Punjabi NM, Mehra R, Patel SR, Quan SF, Babineau DC, Tracy RP, Rueschman M, Blumenthal RS, Lewis EF, Bhatt DL, Redline S. CPAP versus oxygen in obstructive sleep apnea. N Engl J Med. 2014 Jun 12;370(24):2276-85. doi: 10.1056/NEJMoa1306766. PMID: 24918372; PMCID: PMC4172401.](https://pubmed.ncbi.nlm.nih.gov/24918372/)
+
+Please include the following text in the Acknowledgements:
+
+> The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) study was supported by grants from the National Heart, Lung, and Blood Institute (RC2 HL101417, 1R01HL109493, R21HL108226) and National Center for Research Resources (UL1 RR024989). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Dataset download
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Phenotype data from the baseline and followup visits
@@ -21,11 +33,3 @@ Read more about HeartBEAT at [ClinicalTrials.gov (NCT01086800)](http://clinicalt
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Gottlieb DJ, Punjabi NM, Mehra R, Patel SR, Quan SF, Babineau DC, Tracy RP, Rueschman M, Blumenthal RS, Lewis EF, Bhatt DL, Redline S. [**CPAP versus oxygen in obstructive sleep apnea.**](http://www.ncbi.nlm.nih.gov/pubmed/24918372) N Engl J Med. 2014 Jun 12;370(24):2276-85. doi: 10.1056/NEJMoa1306766. PubMed PMID: 24918372; PubMed Central PMCID: PMC4172401.
