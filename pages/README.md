@@ -14,7 +14,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) study was supported by grants from the National Heart, Lung, and Blood Institute (RC2 HL101417, 1R01HL109493, R21HL108226) and National Center for Research Resources (UL1 RR024989). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+> The Heart Biomarker Evaluation in Apnea Treatment (HeartBEAT) study was supported by grants from the National Heart, Lung, and Blood Institute (RC2 HL101417, 1R01HL109493, R21HL108226) and National Center for Research Resources (UL1 RR024989). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Dataset download
 
