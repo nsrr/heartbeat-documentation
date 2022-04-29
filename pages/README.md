@@ -26,6 +26,7 @@ Please include the following text in the Acknowledgements:
 
 - [HeartBEAT Manual of Procedures](:pages_path:/manuals/manuals-toc.md)
 - [HeartBEAT Forms](:files_path:/forms)
+- [HeartBEAT HSAT Scoring Manual](:files_path:/documentation/HeartBEAT_HSAT_Scoring_Manual.pdf)
 
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
