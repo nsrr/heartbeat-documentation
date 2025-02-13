@@ -22,6 +22,10 @@ The NSRR provides [original data collection forms as PDFs](:files_path:/forms). 
 
 The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
 
+## Ambulatory blood pressure (ABPM) readings dataset
+
+The [ABPM readings dataset](:files_path:/datasets) contains data from the 24-hour ambulatory blood pressure (ABPM) collection. The dataset includes systolic blood pressure, diastolic blood pressure, mean arterial pressure, heart rate, pulse pressure, along with timestamps and an indicator for whether the reading was taken during wake time or sleep time. ABPM was collected at baseline (timepoint = 2) and follow-up (timepoint = 7). Failed/invalid blood pressure readings have been removed from the dataset.
+
 ## Questions?
 
 Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
